@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 </div>
 
 ### 详细报告
-📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/Demolitionist/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Fork 仓库的重要说明**：  
 如果您 fork 此仓库，请确保将上述链接中的 `USERNAME` 替换为您的 GitHub 用户名。这确保链接指向您自己的交互式仪表盘而不是原始项目的仪表盘。操作步骤：
