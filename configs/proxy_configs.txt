@@ -30,7 +30,7 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?encryption=none&s
 
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👹
 
-vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👺
+vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😈
 
 vless://23d240b9-c5ec-43d1-ec3d-5066556537f4@172.67.193.239:8080?path=%2Fsearch&security=none&encryption=none&host=0617.heweiyi.dpdns.org&type=ws#%40ShadowProxy66
 
@@ -84,8 +84,6 @@ vless://42fca25b-adcf-4b7f-a7e3-522ba1d16c87@140.248.125.5:80?mode=auto&path=ZED
 
 vless://42fca25b-adcf-4b7f-a7e3-522ba1d16c87@151.101.69.69:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=joinbedeZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏈
 
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.171:59483?type=grpc#
-
 vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v06.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚙
 
 vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v40.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚒
@@ -108,15 +106,11 @@ vless://6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%4
 
 vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.64.155:80?path=%2F%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn&security=none&encryption=none&host=aklisvip.com&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍏
 
-vless://68c2ca92-f855-4f93-8ef4-764274fc6d7c@www.pdownloaddigikala.ir:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.pdownloaddigikala.ir&pbk=UM8y5poXcoH0SlYO09ilEYhdkgBLGcx3Mx0e_RMyF1Y&sid=1b3e6098&spx=/www608fed#khosrow-germany-fast
-
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?path=%2F%3Fed%3D8880-%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😾
 
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?path=%2F&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😿
 
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?path=%2F%3Fed%3D8880-%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😸
-
-vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40VPN_SOLVE
 
 vless://73669515-a872-4f63-9087-edf132fb89df@elmoji.blackraven.ir:1313?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40ZHAKAWIIII
 
@@ -124,11 +118,7 @@ vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 vless://7b6503eb-a641-4eb4-9620-9b219a51e3ab@ssl2.komanserver.ir:443?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=httpupgrade&sni=am.komanserver.ir.#@meli_proxyy
 
-vless://7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702?path=%2FZARIN7&security=none&encryption=none&host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🎖
-
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?path=%2FtvBEHCmw4qDK5mxR%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2095?path=%2FRtYBGEwkOwlzf3oV%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
@@ -144,6 +134,16 @@ vless://81a492de-b7dc-40c7-856d-46bce6205963@tn6.adamlinux.ir:8051?security=none
 
 vless://823b79de-822d-45d0-98d6-3bc35c43a2ee@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💫
 
+vless://86b8e7ac-8ecb-469a-9a03-33c613ceb229@tn6.adamlinux.ir:8051?security=none&encryption=none&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌈
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@213.176.67.129:443?path=%2FeyJleHAiOjE3NTA2NDY5MzI5MDR9%3Fed%3D2560&security=tls&encryption=none&host=987654321123456789.NV2ROn.ir&type=ws&sni=987654321123456789.NV2ROn.ir#%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@213.176.67.129:443?path=%2FeyJleHAiOjE3NTA2NDY5MzI5MDR9%3Fed%3D2560&security=tls&encryption=none&host=987654321123456789.NV2Ron.ir&type=ws&sni=987654321123456789.NV2Ron.ir#%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@213.176.67.129:443?path=%2FeyJleHAiOjE3NTA2NDY5MzI5MDR9%3Fed%3D2560&security=tls&encryption=none&host=987654321123456789.NV2ron.ir&type=ws&sni=987654321123456789.NV2ron.ir#%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@213.176.67.129:443?path=%2FeyJleHAiOjE3NTA2NDY5MzI5MDR9%3Fed%3D2560&security=tls&encryption=none&host=987654321123456789.Nv2ron.ir&type=ws&sni=987654321123456789.Nv2ron.ir#%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F
+
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@45.89.109.129:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🔴
 
 hysteria2://447fb52e-8377-452e-8f9e-873dd2d3f1f8@46.17.40.117:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85⚫️
@@ -153,6 +153,4 @@ hysteria2://4554d1fb-46ca-4f07-864b-797178246b8d@tianmao-in.legeth.xyz:443?secur
 hysteria2://4554d1fb-46ca-4f07-864b-797178246b8d@tianmao-jp.legeth.xyz:443?security=tls&insecure=0&mport=16001-16999#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.#نشردهید @prrofile_purple
 
 hysteria2://4554d1fb-46ca-4f07-864b-797178246b8d@tianmao-us.legeth.xyz:443?security=tls&insecure=0&mport=16001-16999#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🟡
-
-hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?security=tls&obfs=salamander&obfs-password=v2raybluecrystal&insecure=1#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥈
 
