@@ -118,10 +118,14 @@ class ConfigToSingbox:
                 'sni': params.get('sni', [address])[0],
                 'type': params.get('type', ['tcp'])[0],
                 'path': params.get('path', [''])[0],
-                'host': params.get('host', [''])[0]
+                'host': params.get('host', [''])[0],
+                'public_key': params.get('publicKey', [''])[0],
+                'fingerprint': params.get('fp', [''])[0],
+                'spx': params.get('spx', [''])[0]
             }
         except Exception:
             return None
+
 
     def parse_trojan(self, config: str) -> Optional[Dict]:
         try:
@@ -138,6 +142,27 @@ class ConfigToSingbox:
                 'alpn': params.get('alpn', [''])[0],
                 'type': params.get('type', ['tcp'])[0],
                 'path': params.get('path', [''])[0]
+            }
+        except Exception:
+            return None
+
+    def parse_hysteria(self, config: str) -> Optional[Dict]:
+        try:
+            url = urlparse(config)
+            if url.scheme.lower() != 'hysteria' or not url.hostname or not url.port:
+                return None
+            query = dict(pair.split('=') for pair in url.query.split('&')) if url.query else {}
+            return {
+                'address': url.hostname,
+                'port': url.port,
+                'auth_str': url.username or query.get('auth', ''),
+                'sni': query.get('sni', url.hostname),
+                'alpn': query.get('alpn', ''),
+                'insecure': query.get('insecure', '1') == '1',
+                'up_mbps': int(query.get('upmbps', '10')),
+                'down_mbps': int(query.get('downmbps', '50')),
+                'obfs': query.get('obfs', ''),
+                'obfs_password': query.get('obfs-password', '')
             }
         except Exception:
             return None
@@ -211,11 +236,18 @@ class ConfigToSingbox:
                     return None
                 transport = {}
                 if vless_data['type'] == 'ws':
-                    if vless_data.get('path', ''):
-                        transport["path"] = vless_data.get('path')
-                    if vless_data.get('host', ''):
-                        transport["headers"] = {"Host": vless_data.get('host')}
                     transport["type"] = "ws"
+                    if vless_data['path']:
+                        transport["path"] = vless_data['path']
+                    if vless_data['host']:
+                        transport["headers"] = {"Host": vless_data['host']}
+                elif vless_data['type'] == 'reality':
+                    transport = {
+                        "type": "reality",
+                        "public_key": vless_data['public_key'],
+                        "short_id": vless_data['spx'],
+                        "fingerprint": vless_data['fingerprint']
+                    }
                 flag, country = self.get_location(vless_data['address'])
                 return {
                     "type": "vless",
@@ -253,6 +285,30 @@ class ConfigToSingbox:
                         "insecure": True
                     },
                     "transport": transport
+                }
+            elif config_lower.startswith('hysteria://'):
+                hy1_data = self.parse_hysteria(config)
+                if not hy1_data:
+                    return None
+                flag, country = self.get_location(hy1_data['address'])
+                return {
+                    "type": "hysteria",
+                    "tag": f"{flag} hysteria-{str(uuid.uuid4())[:8]} ({country})",
+                    "server": hy1_data['address'],
+                    "server_port": hy1_data['port'],
+                    "auth_str": hy1_data['auth_str'],
+                    "up_mbps": hy1_data['up_mbps'],
+                    "down_mbps": hy1_data['down_mbps'],
+                    "obfs": {
+                        "type": hy1_data['obfs'],
+                        "password": hy1_data['obfs_password']
+                    } if hy1_data['obfs'] else {},
+                    "tls": {
+                        "enabled": True,
+                        "server_name": hy1_data['sni'],
+                        "alpn": hy1_data['alpn'].split(',') if hy1_data['alpn'] else [],
+                        "insecure": hy1_data['insecure']
+                    }
                 }
             elif config_lower.startswith('hysteria2://') or config_lower.startswith('hy2://'):
                 hy2_data = self.parse_hysteria2(config)
