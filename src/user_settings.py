@@ -5,6 +5,12 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
+    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt,
+    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt,
+    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt,
+    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/WireGuard.txt,
+    "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/ndsphonemy_hys-tuic.txt,
+    "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2,
     "https://t.me/s/v2rayfree",
     "https://t.me/s/FreeV2rays",
     "https://t.me/s/v2ray_free_conf",
@@ -20,7 +26,13 @@ SOURCE_URLS = [
     "https://t.me/s/moftconfig",
     "https://t.me/s/ConfigsHUB2",
     "https://t.me/s/ArV2ray",
-    # Add more URLs here if you want to include additional sources.
+    "https://t.me/s/ZibaNabz",
+    "https://t.me/s/nufilter",
+    "https://t.me/s/Outline_Vpn",
+    "https://t.me/s/zedmodeonVPN",
+    # other .
+    #"https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt,
+    #"https://t.me/s/WireVpnGuard",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
@@ -35,6 +47,7 @@ SPECIFIC_CONFIG_COUNT = 250
 # Set each protocol to True to enable, False to disable.
 ENABLED_PROTOCOLS = {
     "wireguard://": False,
+    "hysteria://": True,
     "hysteria2://": True,
     "vless://": True,
     "vmess://": False,
