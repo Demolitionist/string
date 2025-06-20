@@ -194,6 +194,9 @@ class ConfigFetcher:
         
         if config.startswith('hy2://'):
             config = self.validator.normalize_hysteria2_protocol(config)
+
+        if config.startswith('hy://'):
+            config = self.validator.normalize_hysteria_protocol(config)
             
         for protocol in self.config.SUPPORTED_PROTOCOLS:
             aliases = self.config.SUPPORTED_PROTOCOLS[protocol].get('aliases', [])
@@ -248,7 +251,10 @@ class ConfigFetcher:
         for config in configs:
             if config.startswith('hy2://'):
                 config = self.validator.normalize_hysteria2_protocol(config)
-                
+
+            if config.startswith('hy://'):
+                config = self.validator.normalize_hysteria_protocol(config)
+            
             for protocol in self.config.SUPPORTED_PROTOCOLS:
                 if config.startswith(protocol):
                     protocol_configs[protocol].append(config)
