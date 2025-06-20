@@ -191,7 +191,10 @@ class ConfigValidator:
                     return True
                 if cls.decode_base64_url(base64_part) or cls.decode_base64_url(decoded_url):
                     return True
-            elif protocol in ['trojan://', 'hysteria2://', 'hy2://', 'wireguard://']:
+            elif protocol in ['hysteria://', 'hy://', 'hysteria2://', 'hy2://']:
+                parsed = urlparse(config)
+                return bool(parsed.hostname and parsed.port)
+            elif protocol in ['trojan://', 'wireguard://']:
                 parsed = urlparse(config)
                 return bool(parsed.netloc and '@' in parsed.netloc)
             elif protocol == 'ssconf://':
