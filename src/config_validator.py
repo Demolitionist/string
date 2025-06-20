@@ -44,6 +44,12 @@ class ConfigValidator:
         return config
 
     @staticmethod
+    def normalize_hysteria_protocol(config: str) -> str:
+        if config.startswith('hy://'):
+            return config.replace('hy://', 'hysteria://', 1)
+        return config
+    
+    @staticmethod
     def normalize_hysteria2_protocol(config: str) -> str:
         if config.startswith('hy2://'):
             return config.replace('hy2://', 'hysteria2://', 1)
@@ -96,7 +102,7 @@ class ConfigValidator:
         try:
             decoded_text = ConfigValidator.decode_base64_text(text)
             if decoded_text:
-                protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
+                protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria://', 'hy://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
                 for protocol in protocols:
                     if protocol in decoded_text:
                         return decoded_text
@@ -119,7 +125,7 @@ class ConfigValidator:
                 if decoded_content:
                     text = decoded_content
                     
-            protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
+            protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria://', 'hy://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
             current_pos = 0
             text_length = len(text)
             
@@ -150,6 +156,8 @@ class ConfigValidator:
                     current_config = text[next_config_start:next_protocol_pos].strip()
                     if matching_protocol == "vmess://":
                         current_config = ConfigValidator.clean_vmess_config(current_config)
+                    elif matching_protocol == "hy://":
+                        current_config = ConfigValidator.normalize_hysteria_protocol(current_config)
                     elif matching_protocol == "hy2://":
                         current_config = ConfigValidator.normalize_hysteria2_protocol(current_config)
                     if ConfigValidator.is_valid_config(current_config):
@@ -174,7 +182,7 @@ class ConfigValidator:
         if not config:
             return False
             
-        protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
+        protocols = ['vmess://', 'vless://', 'ss://', 'trojan://', 'hysteria://', 'hy://', 'hysteria2://', 'hy2://', 'wireguard://', 'tuic://', 'ssconf://']
         return any(config.startswith(p) for p in protocols)
 
     @classmethod
