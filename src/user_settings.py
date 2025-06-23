@@ -7,12 +7,17 @@ SOURCE_URLS = [
 #    "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt",
     "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic",
 #    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt",
 #    "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/WireGuard.txt",
     "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/ndsphonemy_hys-tuic.txt",
     "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2",
     "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria",
     "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt",
+    "https://awa.inekokkk.immobilien/amei/6ca22ad3b96aa6601fbe4457dad107a2",
+    "https://sub.xn--3bs984e5qg.xyz/s/d2ddf60933dd08ad67d3585f72ed16c3",
+    "https://jc.huasuan666.top/api/v1/client/subscribe?token=8bc38a0c131e9b3fcd3a9083824c23e9",
     "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H",
     "https://github.com/Mosifree/-FREE2CONFIG/blob/main/Movaghat",
     "https://raw.githubusercontent.com/miladnataj6/nontlsvstls/refs/heads/main/pooriared.txt",
@@ -34,11 +39,13 @@ SOURCE_URLS = [
     #"https://vpn.fail/free-proxy/v2ray#v2ray",
     #"https://shadowmere.xyz/api/b64sub/",# ss
     #"https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt#V2RAY_RAW",#mix
+    #"https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",#mix
     # A
     "https://t.me/s/ArV2ray",
     # C
     "https://t.me/s/ConfigsHUB2",
     "https://t.me/s/configfa",
+    #"https://t.me/s/configV2rayForFree",#11k mix
     #"https://t.me/s/customv2ray",#149k other
     # D
     "https://t.me/s/DirectVPN",
@@ -52,8 +59,9 @@ SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/VmessProtocol",
     "https://t.me/s/v2raybaz",
+    #"https://t.me/s/vpnfail_v2ray"#20k vmess
     #"https://t.me/s/vlesskeys",#14k
-    #"https://t.me/s/V2rayNGX",#vless
+    #"https://t.me/s/V2rayNGX",#147k hidden vless
     #"https://t.me/s/vpnowl",#vless
     #"https://t.me/s/v2Source",#vless
     #"https://t.me/s/VPN_Accounti",#vless ss 123K
@@ -71,9 +79,10 @@ SOURCE_URLS = [
     "https://t.me/s/PrivateVPNs",
     "https://t.me/s/pooriared",
     "https://t.me/s/prrofile_purple",
+    #"https://t.me/s/proxyiranip",#3k vless
     #"https://t.me/s/Parsashonam",#tg vless ss
     # I
-    #"https://t.me/s/ISVvpn",#tg vless ss
+    #"https://t.me/s/ISVvpn",#5k #tg vless vmess ss
     "https://t.me/s/IP_CF_Config",
     #"https://t.me/s/ipV2Ray",#24k vless
     #"https://t.me/s/lrnbymaa",#12k tg vless 
@@ -81,8 +90,8 @@ SOURCE_URLS = [
     "https://t.me/s/LonUp_M",
     # M
     "https://t.me/s/meli_proxyy",
-    #"https://t.me/s/melov2ray",#vless
-    #"https://t.me/s/mobilesignal", #tg vless ss
+    #"https://t.me/s/melov2ray",#74k #vless
+    #"https://t.me/s/mobilesignal",#3k #tg vless ss
     # S
     "https://t.me/s/shokhmiplus",
     "https://t.me/s/shadowproxy66",
