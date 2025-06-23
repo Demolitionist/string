@@ -23,7 +23,6 @@ SOURCE_URLS = [
     #"https://raw.githubusercontent.com/Rayan-Config/Rayan-Config.github.io/refs/heads/main/ALL",
     "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
     "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
-    "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
     "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/mahsa.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_1.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_2.txt",
@@ -33,6 +32,9 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_2.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_3.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_4.txt",
+    #"https://vpn.fail/free-proxy/v2ray#v2ray",
+    #"https://shadowmere.xyz/api/b64sub/",# ss
+    #"https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt#V2RAY_RAW",#mix
     # A
     "https://t.me/s/ArV2ray",
     # C
@@ -51,6 +53,7 @@ SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/VmessProtocol",
     "https://t.me/s/v2raybaz",
+    #"https://t.me/s/vlesskeys",#14k
     #"https://t.me/s/V2rayNGX",#vless
     #"https://t.me/s/vpnowl",#vless
     #"https://t.me/s/v2Source",#vless
@@ -60,6 +63,7 @@ SOURCE_URLS = [
     #"https://t.me/s/Vpnstable",#1.8k vless
     # F
     "https://t.me/s/FreeV2rays",
+    #"https://t.me/s/freewireguard"
     #"https://t.me/s/flyv2ray",#37k mix
     #"https://t.me/s/fastkanfig",#3k mix
     # G
@@ -90,6 +94,7 @@ SOURCE_URLS = [
     # O
     "https://t.me/s/Outline_Vpn",
     #"https://t.me/s/orange_vpns",#8k tg vless ss
+    #"https://t.me/s/OutlineReleasedKey"#5k mix
     "https://t.me/s/zedmodeonVPN",
     # R
     "https://t.me/s/redv2ray_channel",
@@ -101,6 +106,7 @@ SOURCE_URLS = [
     # other .
     #"https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt,
     #"https://t.me/s/WireVpnGuard",
+    # err "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
