@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   update-configs:
+    if: github.ref == 'refs/heads/canary'
     runs-on: ubuntu-latest
     
     steps:
