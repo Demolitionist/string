@@ -1,6 +1,6 @@
-# Multi Proxy Config Fetcher
+Developed by **4n0nymou3**.  
 
-[**🇺🇸English**](README.md) | [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)فارسی**](README_FA.md) | [**🇨🇳中文**](README_CN.md) | [**🇷🇺Русский**](README_RU.md)
+# Multi Proxy Config Fetcher
 
 This project automatically fetches and updates various proxy configurations from public Telegram channels, SSCONF links and other URLs containing configuration data. It supports multiple proxy protocols including WireGuard, Hysteria2, VLESS, VMess, Shadowsocks, TUIC, and Trojan.
 
@@ -29,14 +29,14 @@ Below is the real-time performance statistics of the configured sources (Telegra
 </div>
 
 ### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Demolitionist/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Demolitionist/multi-proxy-config-fetcher/blob/canary/assets/performance_report.html)
 
 > **Important for Forked Repositories**:  
 If you fork this repository, make sure to replace `USERNAME` in the above link with your GitHub username. This ensures that the link directs to your own interactive dashboard instead of the original project's dashboard. To do this:
 1. Edit the `README.md` file in your forked repository.
 2. Locate the following line:
    ```markdown
-   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/USERNAME/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/USERNAME/multi-proxy-config-fetcher/blob/canary/assets/performance_report.html)
    ```
 3. Replace `USERNAME` with your GitHub username.
 4. Commit the changes.
