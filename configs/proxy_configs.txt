@@ -64,6 +64,8 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none\u
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%93%8C%D9%88%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%D8%8C%20%D8%AD%D8%AA%DB%8C%20%D9%88%D9%82%D8%AA%20%D9%85%D9%84%DB%8C%20%D8%B4%D8%AF%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%40Powercodes
+
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@www.speedtest.net:443?security=tls&sni=rayan-infra.parisa.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-infra.parisa.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-105%20-%20D.50
@@ -119,18 +121,6 @@ vless://21cf57f2-391f-4e7b-91ac-8b650e0a2f4c@cdnjs.com:443?security=tls&sni=raya
 vless://24cf00a0-f150-44b7-a2af-1f788d36c491@85.133.253.219:443?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.58.135:443?security=tls&sni=RrRRRRYyY7.818185.XYZ&type=ws&host=rrrrrryyy7.818185.xyz&path=%2Fl3y4CZ9KUctFw6Ri5y2&fp=chrome&alpn=http%2F1.1#@VIProxys
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@151.101.3.8:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#@meli_proxyy
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#@meli_proxyy
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
-
-vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#@meli_proxyy
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#87%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
@@ -226,6 +216,8 @@ vless://33ada61a-f300-46aa-8aaf-f93324e0a2c6@vahidd-vpn-telegram.vahidvpn.com.tr
 
 vless://3401df95-1f97-411c-a71c-eeab0eb97d96@www.speedtest.net:8443/?type=ws&host=peacefulpigs.adaspolo.co&path=/test?ed%3D2560&security=tls&fp=chrome&sni=peacefulpigs.adaspolo.co&alpn=h3,h2,http/1.1#%F0%9F%87%B8%F0%9F%87%AA@%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%D8%A7%D9%88%D8%B1%DA%98%D8%A7%D9%86%D8%B3%DB%8C
 
+vless://348b8a0c-e28e-4aa4-8f0f-046e3473d7e9@185.215.228.92:8080?type=tcp&headerType=http#severs--2
+
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.153.138.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%3Fed%3D2560&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF%3A%20%40V2ray_Hub1
 
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐬
@@ -251,6 +243,14 @@ vless://39420bb7-5535-48fc-c56c-5c98c6eafce8@185.208.77.113:11140/?type=ws\u0026
 vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@46.62.154.63:55555/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=stackoverflow.com\u0026fp=chrome\u0026security=reality\u0026pbk=iN6Mxm-XgB9_nfgRHxdE3QX9XJpAY-EHv-EtvAIkYx4\u0026sid=ea83a8b0","","
 
 vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@46.62.154.63:55555/?type=tcp\u0026encryption=none\u0026sni=stackoverflow.com\u0026fp=chrome\u0026security=reality\u0026pbk=iN6Mxm-XgB9_nfgRHxdE3QX9XJpAY-EHv-EtvAIkYx4\u0026sid=ea83a8b0","","
+
+vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@91.99.27.51:2083/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=cdn-download.zula.ir\u0026fp=chrome\u0026security=reality\u0026pbk=AxIOXEujA6HwUz2QZnPM6O8llj2QVaI50lZXGUlibhs\u0026sid=ea83a8b0","","
+
+vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@91.99.27.51:2083/?type=tcp\u0026encryption=none\u0026sni=cdn-download.zula.ir\u0026fp=chrome\u0026security=reality\u0026pbk=AxIOXEujA6HwUz2QZnPM6O8llj2QVaI50lZXGUlibhs\u0026sid=ea83a8b0","","
+
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Ws.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍏
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%B1%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%DB%8C%D8%AF%3A%20%40V2ray_Hub1
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
@@ -612,17 +612,17 @@ tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443
 
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.208.3:443
 
-tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
+tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҸҙвҖҚвҳ пёҸ NA
 
 tuic://abc123-4567-8901-2345-6789abcdef12@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 
-tuic://abc123-4567-8901-2345-6789abcdef12@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
+tuic://abc123-4567-8901-2345-6789abcdef12@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҮәрҹҮё US
 
-tuic://abc456-7890-1234-5678-9012abcdef56@172.67.131.246:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
+tuic://abc456-7890-1234-5678-9012abcdef56@172.67.131.246:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҮәрҹҮё US
 
-tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
+tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҸҙвҖҚвҳ пёҸ NA
 
-tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
+tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҸҙвҖҚвҳ пёҸ NA
 
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒
 
@@ -632,11 +632,11 @@ tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?conges
 
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.191.133:443
 
-tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
+tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҸҙвҖҚвҳ пёҸ NA
 
 tuic://def456-7890-1234-5678-9012abcdef34@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 
-tuic://def456-7890-1234-5678-9012abcdef34@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
+tuic://def456-7890-1234-5678-9012abcdef34@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | рҹҮәрҹҮё US
 
 tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker | Finland
 
