@@ -92,8 +92,6 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encr
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#%40neteiran%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40saroz_vpn%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
-
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🎩
@@ -111,8 +109,6 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none\u
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%93%8C%D9%88%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%D8%8C%20%D8%AD%D8%AA%DB%8C%20%D9%88%D9%82%D8%AA%20%D9%85%D9%84%DB%8C%20%D8%B4%D8%AF%D9%86%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%40Powercodes
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=www.police.ir&headerType=http&type=tcp#%D9%81%D8%B1%D9%82%20%D9%85%D8%A7%20%D8%A8%D8%A7%20%D8%A8%D9%82%DB%8C%D9%87..%D8%9F%20%D9%88%D9%82%D8%AA%DB%8C%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%D8%B4%D8%AF%20%D9%85%DB%8C%D9%81%D9%87%D9%85%DB%8C%F0%9F%AB%A1%40PowerCodes
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#11-%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
 
@@ -173,6 +169,8 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.24.39.83:443?encryption=none&se
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.24.43.198:443?encryption=none&security=tls&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#95%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
 vless://1f46cb74-40ba-4964-9a1f-ccbd448b483b@148.113.207.221:2087/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026fp=firefox\u0026security=reality\u0026pbk=nzxEupJqZ3vDwqrV95RfHLKKJT8dCByBmBNwsbvHVyc\u0026sid=e11e857b70","","
+
+vless://1f46cb74-40ba-4964-9a1f-ccbd448b483b@ca-v2ray.freevmess.com:2087?security=reality&encryption=none&pbk=nzxEupJqZ3vDwqrV95RfHLKKJT8dCByBmBNwsbvHVyc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=e11e857b70#%F0%9F%9A%80%F0%9F%87%A8%F0%9F%87%A6%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%7C%20%20%40V2ray_melli
 
 vless://2065f7e7-a985-4025-aee6-831e880139d8@104.18.26.90:80?type=ws&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%40vpnjey
 
@@ -238,8 +236,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443/?encryption=none\
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=&encryption=none&host=zula.ir%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=http&type=tcp#%E1%B4%AC%E1%B4%B8%E1%B4%B8%C2%B9%F0%9F%87%A9%F0%9F%87%AA%E2%9E%A3%40ghalagyann
-
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 DailyV2ry
@@ -251,6 +247,10 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#%D8%A8%D8%B2%D9%86%20%D9%88%D8%B5%D9%84%20%D8%B4%D9%88%20%7C%20%40neteiran
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
