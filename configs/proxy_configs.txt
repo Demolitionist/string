@@ -146,15 +146,11 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?path=%2F%3Fed%3D2
 
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.18.33.45:443?encryption=none&security=tls&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#99%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%B1+%D9%86%D8%AA+%D9%85%D9%84%DB%8C+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF%3A+%40V2ray_Hub1
-
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%F0%9F%A4%BC%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0-%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
 
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.24.39.83:443?encryption=none&security=tls&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#93%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.24.43.198:443?encryption=none&security=tls&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#95%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
-
-vless://1f431db3-1918-4e7b-a855-c93485e11694@172.67.111.215:80?path=%2F%3Fed%3D2566&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%B1+%D9%86%D8%AA+%D9%85%D9%84%DB%8C+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88%DB%8C%D8%AF%3A+%40V2ray_Hub1
 
 vless://1f46cb74-40ba-4964-9a1f-ccbd448b483b@148.113.207.221:2087/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=cloudflare.com\u0026fp=firefox\u0026security=reality\u0026pbk=nzxEupJqZ3vDwqrV95RfHLKKJT8dCByBmBNwsbvHVyc\u0026sid=e11e857b70","","
 
@@ -185,6 +181,8 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.85.198:80?encryption=none&se
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=www.speedtest.net\u0026fp=random\u0026security=reality\u0026pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk\u0026sid=69","","
 
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
+
+vless://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?encryption=none&security=none&type=tcp&headerType=http#@VIProxys
 
 vless://2aeb19d8-ae92-4c21-afd1-f6609517df19@cdnjs.com:443?security=tls&sni=rayan-fg-4.parmida.filegear-sg.me&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-fg-4.parmida.filegear-sg.me&encryption=none#Rayan%20-%20CF%20-%20WS-108%20-%20C.72
 
@@ -251,6 +249,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&se
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IRAN%20162%20%28%40Outline_Vpn%29%20free
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤟
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
