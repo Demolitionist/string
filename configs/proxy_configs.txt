@@ -140,8 +140,6 @@ vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=%2Fpwp
 
 vless://2406a224-ba26-43fb-99db-5da807253a5f@rim.fullbodystore.com.tr:443?type=tcp&security=reality&pbk=Fzbq6pUHPb92ap_-Xfe0GIKTts7fKzfRTGdoABWDa2s&fp=random&sni=www.google.com&sid=c39d1b&spx=%2FSpiderman1381%40#tinynet_speed
 
-vless://24cf00a0-f150-44b7-a2af-1f788d36c491@85.133.253.219:443?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-
 vless://24f55324-605a-4be8-9f1b-150a55101067@104.18.26.90:443?encryption=none&security=tls&sni=q3.19KaLa.co&alpn=h2%2Chttp%2F1.1&fp=ios&allowInsecure=1&type=ws&host=q3.19kaLa.co&path=%2F#BB-6
 
 vless://24f55324-605a-4be8-9f1b-150a55101067@104.18.26.90:443?encryption=none&security=tls&sni=q3.19kaLa.co&alpn=h2%2Chttp%2F1.1&fp=ios&allowInsecure=1&type=ws&host=q3.19kaLa.co&path=%2F#BB-8
@@ -251,6 +249,8 @@ vless://2u7opi5sqg@npmjs.com:2053?encryption=none&security=tls&sni=2u7opi5sqg-45
 vless://3054a28e-177a-412f-9b03-9855d79aa728@104.26.13.31:8880?security=none&type=ws&host=0609.sunnyfish.dpdns.org&path=%2F#@VIProxys
 
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=hozori.ir\u0026path=%2FTelegram%40V2ray_Alpha\u0026security=tls\u0026sni=hOZori.iR\u0026alpn=http%2F1.1\u0026fp=chrome","","
+
+vless://31b3fe16-4650-469e-8f1c-53076d8846ad@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FRAgiLe-InCIDEnT.OneeAt.cO.&type=ws#telegram 🌟 DailyV2ry
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
