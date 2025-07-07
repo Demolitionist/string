@@ -176,7 +176,7 @@ vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544/?encryptio
 
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#@meli_proxyy
 
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🌈 DailyV2ry
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🚀 DailyV2ry
 
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
 
