@@ -40,7 +40,7 @@ vless://0e2c33de-0882-4c7a-9343-b05d204216ba@91.99.166.65:80?mode=auto&path=%2Fl
 
 vless://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501/?type=tcp&encryption=none&flow=#%20%40ipV2rayNG%20
 
-vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?type=ws&encryption=none&security=tls&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=/linkws?ed=2560&sni=MAxNETvipAp-cloUD252.nEtKh3.site#telegram 🎯 DailyV2ry
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?type=ws&encryption=none&security=tls&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=/linkws?ed=2560&sni=MAxNETvipAp-cloUD252.nEtKh3.site#telegram 🎪 DailyV2ry
 
 vless://107088af-d5a1-4612-8641-a83e0e13c81e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451943398.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451943398.kish-prx-dnraaaf.info&path=/oiakdrws#@meli_proxyy
 
@@ -176,7 +176,7 @@ vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544/?encryptio
 
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#@meli_proxyy
 
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🚀 DailyV2ry
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🍊 DailyV2ry
 
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
 
@@ -328,7 +328,7 @@ hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzc
 
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?obfs=salamander&obfs-password=rPvCrCom7ETCNOvA&sni=h2.gzcloud.shop&insecure=0#@meli_proxyy
 
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_070709531
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_070713523
 
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 
