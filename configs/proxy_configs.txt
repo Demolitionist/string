@@ -72,7 +72,7 @@ vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=no
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.142.148:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#@meli_proxyy
 
-vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.142.148:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🎯 DailyV2ry
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.142.148:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🍊 DailyV2ry
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.178.189:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🎊
 
@@ -176,7 +176,7 @@ vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544/?encryptio
 
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#@meli_proxyy
 
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🚀 DailyV2ry
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🌈 DailyV2ry
 
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
 
