@@ -116,7 +116,7 @@ vless://186afaf8-214f-4437-add3-0aadaaa53a81@liteb.myfootage.top:443?security=no
 
 vless://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=xXCdFRt.222560.XyZ&type=grpc&serviceName=fjpweaMxKblWR0QwhWm3F&fp=chrome&alpn=h2#@VIProxys
 
-vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryption=none&security=tls&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed=2560&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#telegram 🍊 DailyV2ry
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryption=none&security=tls&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed=2560&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#telegram 🌈 DailyV2ry
 
 vless://1b983c08-f7e3-4f40-be39-b942f7501992@www.speedtest.net:2096?encryption=none&security=tls&sni=638872398562289120.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872398562289120.zagreb-prx-dnraaad.info&path=/xpgvxlws#telegram 🌟 DailyV2ry
 
@@ -168,6 +168,8 @@ vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443/?type=ws\u0026encry
 
 vless://26232966-5a9b-46aa-b0ae-c2d05518c831@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ElegANT-CAsH.OneeaT.CO.&type=ws#telegram 🌟 DailyV2ry
 
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?host=fggerlad.gerald81.dpdns.org&type=ws&security=none&path=%2F%3Fed%3D2560&encryption=none#@meli_proxyy
+
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#87%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.226.132:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#83%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
@@ -178,7 +180,7 @@ vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544/?encryptio
 
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#@meli_proxyy
 
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🍊 DailyV2ry
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🌈 DailyV2ry
 
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
 
@@ -249,8 +251,6 @@ vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.55.159:443?security=&encrypti
 vless://3a0f49f8-0759-4ed4-9c21-804824bbb73e@2.189.117.62:21483/?encryption=none\u0026flow=\u0026host=www.speedtest.net\u0026type=tcp\u0026headerType=http","","
 
 vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@meli_proxyy
-
-vless://3e7912e9-1310-4c2b-80e8-21201f623cc9@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey#Telegram%20%40ghalayann%20%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
