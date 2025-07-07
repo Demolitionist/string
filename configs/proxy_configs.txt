@@ -100,8 +100,6 @@ vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?encryption=none&securit
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#IRAN%20175%20%28%40Outline_Vpn%29%20free
 
-vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://1754ab32-20ed-4c5f-9b83-291ac118fbcd@mcc5.ahoeidaramkhoshgeleh.com:45003?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#@VIProxys
 
 vless://186afaf8-214f-4437-add3-0aadaaa53a81@liteb.myfootage.top:443/?encryption=none\u0026flow=\u0026host=divarcdn.com\u0026type=tcp\u0026headerType=http","","
@@ -116,7 +114,7 @@ vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryptio
 
 vless://1bb67568-99ca-42cb-a196-c87bf76948a8@www.speedtest.net:2096?encryption=none&security=tls&sni=638872399763995349.abadan-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872399763995349.abadan-prx-dnraaad.info&path=/dbjfngws#@meli_proxyy
 
-vless://1bb67568-99ca-42cb-a196-c87bf76948a8@www.speedtest.net:2096?encryption=none&security=tls&sni=638872399763995349.abadan-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872399763995349.abadan-prx-dnraaad.info&path=/dbjfngws#telegram 🍊 DailyV2ry
+vless://1bb67568-99ca-42cb-a196-c87bf76948a8@www.speedtest.net:2096?encryption=none&security=tls&sni=638872399763995349.abadan-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872399763995349.abadan-prx-dnraaad.info&path=/dbjfngws#telegram 🎪 DailyV2ry
 
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?encryption=none&security=none&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -251,6 +249,8 @@ vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Ws.mciickoir.ir:9620?security=none&
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@meli_proxyy
 
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620/?encryption=none\u0026flow=\u0026host=uptvs.com%2F%3F%40Injast_Vpn\u0026type=tcp\u0026headerType=http","","
+
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620/?encryption=none\u0026flow=\u0026host=uptvs.com\u0026type=tcp\u0026headerType=http","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
