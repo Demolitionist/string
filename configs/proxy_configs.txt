@@ -40,13 +40,15 @@ vless://0e2c33de-0882-4c7a-9343-b05d204216ba@91.99.166.65:80?mode=auto&path=%2Fl
 
 vless://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501/?type=tcp&encryption=none&flow=#%20%40ipV2rayNG%20
 
-vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?type=ws&encryption=none&security=tls&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=/linkws?ed=2560&sni=MAxNETvipAp-cloUD252.nEtKh3.site#telegram 🎪 DailyV2ry
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?type=ws&encryption=none&security=tls&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=/linkws?ed=2560&sni=MAxNETvipAp-cloUD252.nEtKh3.site#telegram 🎯 DailyV2ry
 
 vless://107088af-d5a1-4612-8641-a83e0e13c81e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451943398.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451943398.kish-prx-dnraaaf.info&path=/oiakdrws#@meli_proxyy
 
 vless://1343289b-3518-48da-9ee6-1bc99860b505@104.18.26.90:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com\u0026path=%2FTwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService%3Fed%3D2560\u0026security=tls\u0026sni=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com\u0026alpn=http%2F1.1\u0026fp=chrome","","
 
 vless://13d327d5-a7bf-425c-a4e7-5c339f5afdd0@rezashakor.uniquenonstop.space:22921?security=none&encryption=none&headerType=http&type=tcp#@VIProxys
+
+vless://143856fd-c47c-4901-b86b-987bbedd20c4@45.63.107.54:443?type=xhttp&path=%2Ftyu&host=&mode=stream-one&security=none#telegram 🎯 DailyV2ry
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:443?encryption=none&security=tls&sni=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.loseyourself.dpdns.org&path=%2F%3Fed%3D2560#%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A710
 
@@ -250,8 +252,6 @@ vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&
 
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620/?encryption=none\u0026flow=\u0026host=uptvs.com%2F%3F%40Injast_Vpn\u0026type=tcp\u0026headerType=http","","
 
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620/?encryption=none\u0026flow=\u0026host=uptvs.com\u0026type=tcp\u0026headerType=http","","
-
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
@@ -319,10 +319,6 @@ hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@213.111.142.15:443?mport=30601-
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@27.102.138.202:443?mport=30601-30699&sni=hg.myyfqh.tech#🔒
 
 hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@27.102.138.202:443?mport=30601-30699&sni=hg.myyfqh.tech#🔒 HYSTERIA-UDP 🇰🇷 KR-27.102.138.202:443
-
-hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@hg.myyfqh.tech:443/?mport=30601-30699&sni=hg.myyfqh.tech#Channel
-
-hysteria2://0a0f1f4a-40d9-47b4-aca5-0b281daea3bb@us.myyfqh.tech:443/?mport=30601-30699&sni=us.myyfqh.tech#Channel
 
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@138.2.61.132:13059?obfs=salamander&obfs-password=SNLJD19ZejtSdxW4&sni=jp-odhdjfjcj.gzcloud.shop&insecure=0#@meli_proxyy
 
@@ -478,15 +474,9 @@ hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@92.112.53.144:2056?insecure=1&s
 
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@92.112.53.144:2056?insecure=1&sni=zp1.eyujichang.xyz#🔒 HYSTERIA-UDP 🇺🇦 UA-92.112.53.144:2056
 
-hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#Channel
-
-hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp2.eyucdn.xyz:2056/?insecure=1&sni=zp2.eyujichang.xyz#Channel
-
 hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@107.167.18.102:8443?insecure=1&sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net#🔒
 
 hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@107.167.18.102:8443?insecure=1&sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net#🔒 HYSTERIA-UDP 🇺🇸 US-107.167.18.102:8443
-
-hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net:8443/?insecure=1&sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net#Channel
 
 hysteria2://3r6PBKy5DX@p1.3dfigures.ir:18646?security=tls&obfs=salamander&obfs-password=ywfihi3ohyg9iun3gvu&insecure=1#@vpnv2rayNGv
 
@@ -499,6 +489,16 @@ hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@140.245.35.177:5002?insecure=1&
 hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@152.53.125.70:5002?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒
 
 hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@152.53.125.70:5002?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒 HYSTERIA-UDP 🇩🇪 DE-152.53.125.70:5002
+
+hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@217.142.186.28:5002?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒
+
+hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@217.142.186.28:5002?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒 HYSTERIA-UDP 🇸🇬 SG-217.142.186.28:5002
+
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?mport=20000-50000&insecure=1&sni=www.bing.com#🔒
+
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?mport=20000-50000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-139.162.37.41:443
+
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@91.124.30.24:443?mport=20000-50000&insecure=1&sni=www.bing.com#🔒
 
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%20
 
@@ -586,6 +586,8 @@ tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:44
 
 tuic://69ab993a-4604-4dc8-be55-7918e434fc2b:oaoctFI3YbniIT2f5hrUOIXo@64.81.37.249:49241?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#US-GTT_Americas,_LLC
 
+tuic://69ab993a-4604-4dc8-be55-7918e434fc2b:oaoctFI3YbniIT2f5hrUOIXo@64.81.37.249:49241?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🆔configfa%20🔒%20TU-UDP-N/A%20🇺🇸%20US%20down
+
 tuic://6b389472-9094-4c8a-a780-3d371b2eade5:6b389472-9094-4c8a-a780-3d371b2eade5@45.76.82.254:35403?congestion_control=cubic&alpn=h3&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TU-UDP-TLS%204%E2%83%A3
 
 tuic://6b389472-9094-4c8a-a780-3d371b2eade5:6b389472-9094-4c8a-a780-3d371b2eade5@45.76.82.254:35403?congestion_control=cubic&alpn=h3&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#🔒
@@ -615,8 +617,6 @@ tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
-
-tuic://abc456-7890-1234-5678-9012abcdef56@172.67.131.246:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 
 tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 
