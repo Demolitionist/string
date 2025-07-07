@@ -12,6 +12,8 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&
 
 vless://02187b5c-f759-4221-a86c-17c96ab719b9@66.42.69.236:443?type=xhttp&path=%2Fhui&host=&mode=stream-one&security=none#telegram 🎯 DailyV2ry
 
+vless://04178c14-876e-40ad-9898-799158f29758@U2.snaapppfree.com:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%AD%90%EF%B8%8F%20Telegram%20%3D%20%40z_v2ray
+
 vless://05740a6f-828f-4246-a29b-91650da0bafe@ir1076.aten3.fun:15153?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@meli_proxyy
 
 vless://0652d836-573c-4505-9617-fde1a595f14f@89.44.242.226:2080/?encryption=none\u0026flow=\u0026host=parsabr.com\u0026type=tcp\u0026headerType=http","","
@@ -166,7 +168,7 @@ vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443/?type=tcp\u00
 
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#@meli_proxyy
 
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🚀 DailyV2ry
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#telegram 🍊 DailyV2ry
 
 vless://28bfa633-1c61-4ecf
 
@@ -249,8 +251,6 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#IRAN%20172%20%28%40Outline_Vpn%29%20free
 
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#IRAN%20211%20%28%40Outline_Vpn%29%20free
-
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.53.233:80?path=%2FBaRAyeIran%3Fed%3D2570&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#%F0%9F%87%A8%F0%9F%87%AE%40%F0%9D%90%92%F0%9D%90%A2%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%95%F0%9D%90%8C%F0%9F%91%883%EF%B8%8F%E2%83%A3%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
