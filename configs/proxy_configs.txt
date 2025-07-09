@@ -120,7 +120,7 @@ vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?secur
 
 vless://188f1242-b0c0-4992-b480-1da44dae1700@91.99.204.171:1517/?encryption=none\u0026flow=\u0026host=testspeed-foreign.tci.ir\u0026type=tcp\u0026headerType=http","","
 
-vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryption=none&security=tls&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed=2560&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#telegram 🎯 DailyV2ry
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryption=none&security=tls&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed=2560&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#telegram 🍊 DailyV2ry
 
 vless://1b983c08-f7e3-4f40-be39-b942f7501992@www.speedtest.net:2096?encryption=none&security=tls&sni=638872398562289120.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872398562289120.zagreb-prx-dnraaad.info&path=/xpgvxlws#telegram 🌟 DailyV2ry
 
@@ -164,7 +164,7 @@ vless://2466eb01-4400-4281-9c1a-1cb96f9a5083@good.srvice.shop:2020/?type=tcp\u00
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&path=/#telegram 🌟 DailyV2ry
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&alpn=h3h2&host=JuOf8QfKy3.VpBeThOrVp002.InFo&path=/#telegram 🚀 DailyV2ry
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&alpn=h3h2&host=JuOf8QfKy3.VpBeThOrVp002.InFo&path=/#telegram 🎪 DailyV2ry
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
 
@@ -174,9 +174,9 @@ vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=%2F&security=t
 
 vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#%40V2RAY_VMESS_free
 
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=random
 
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#Bya+To+%40Bad_boyx_x666
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#87%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
 
@@ -193,8 +193,6 @@ vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&secu
 vless://294b2fe3-df96-4ad4-b989-ee9a0cc98c6f@www.speedtest.net:443?security=tls&sni=rayan-bear.narges.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-bear.narges.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WS-106%20-%20D.54
 
 vless://2b74d623-68b3-4fca-988b-5b5d5fc85c75@fl-vip.digitalldns.net:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😈
-
-vless://2c26a6ea-ea47-4e25-964a-91d9cc446e32@zu.ircloudmarket.com:443?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%97
 
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=&fp=chrome&type=httpupgrade&sni=#telegram 🎯 DailyV2ry
 
@@ -251,6 +249,8 @@ vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?securi
 vless://3e7912e9-1310-4c2b-80e8-21201f623cc9@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey#Telegram%20%40ghalayann%20%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
 
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💸
+
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Ws.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍏
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
