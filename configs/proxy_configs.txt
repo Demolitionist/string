@@ -22,6 +22,8 @@ vless://029d527b-1a84-4f3a-b80b-4c2c1e6c0c06@91.99.171.104:443?security=&encrypt
 
 vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=%2F%3FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💍
 
+vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp#t.me%2FiProxy_Channel%203
+
 vless://04b2b6b2-73ba-4a61-baed-f606f3b78220@mci.dl101movis.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=veneta911.ir&type=xhttp#@meli_proxyy
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
@@ -48,7 +50,7 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443/?type=tcp&encrypt
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&fp=chrome#@VIProxys
 
-vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🌈 DailyV2ry
+vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp\u0026encryption=none","","
 
@@ -96,7 +98,7 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr
 
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AETelegram%40DarkVPNpro%20%7C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%85%D9%88%D9%84%D8%AA%DB%8C%20%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 
-vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.142.148:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🎯 DailyV2ry
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.142.148:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🍊 DailyV2ry
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.178.189:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🎊
 
@@ -180,12 +182,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security
 
 vless://24f55324-605a-4be8-9f1b-150a55101067@104.18.26.90:443?encryption=none&security=tls&sni=q3.19kALa.co&alpn=h2%2Chttp%2F1.1&fp=ios&allowInsecure=1&type=ws&host=q3.19kaLa.co&path=%2F#BB-7
 
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#%40V2RAY_VMESS_free
-
-vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#%40V2RAY_VMESS_free
-
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=random
-
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?encryption=none&security=none&sni=fggerlad.gerald81.dpdns.org&fp=random&type=ws&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#87%D8%A8%D9%87%20%DB%8C%D8%A7%D8%AF%20%D8%B3%D8%A7%D8%B1%DB%8C%D9%86%D8%A7
@@ -208,7 +204,7 @@ vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?Telegram=@Nasa
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🌟 DailyV2ry
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🍊 DailyV2ry
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.187.235:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🎪 DailyV2ry
 
@@ -251,6 +247,10 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.161.10:443?type=tcp&path=%2F&
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9C%85%40FreakConfig
 
 vless://37b4ba3f-124b-4e2e-a3e8-aced6d5415b1@ir.ir-enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz:8081?security=&encryption=none&headerType=&type=tcp#@VIProxys
+
+vless://382c44c1-0293-48e4-a85e-091d126480f1@151.101.3.8:80?mode=auto&path=%2Fsmxshayan%3Fed%3D2560&security=none&encryption=none&host=barsa.ir&type=xhttp#@meli_proxyy
+
+vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&encryption=none&security=&host=blaze-can-118.blazecanada.site&path=/?ed=2560/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=#telegram 🚀 DailyV2ry
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
