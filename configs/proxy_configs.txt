@@ -50,7 +50,7 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443/?type=tcp&encrypt
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&fp=chrome#@VIProxys
 
-vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
+vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🌈 DailyV2ry
 
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp\u0026encryption=none","","
 
@@ -204,7 +204,7 @@ vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?Telegram=@Nasa
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🍊 DailyV2ry
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🌟 DailyV2ry
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.187.235:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🎪 DailyV2ry
 
@@ -330,7 +330,7 @@ hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzc
 
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?obfs=salamander&obfs-password=rPvCrCom7ETCNOvA&sni=h2.gzcloud.shop&insecure=0#@meli_proxyy
 
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071009515
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071013511
 
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 
