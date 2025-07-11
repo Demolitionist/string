@@ -186,7 +186,7 @@ vless://2b74d623-68b3-4fca-988b-5b5d5fc85c75@fl-vip.digitalldns.net:8080?securit
 
 vless://2ba7f887-9172-4cf4-a8e7-e5094c313890@85.133.202.69:2020?security=&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🌟 DailyV2ry
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🍊 DailyV2ry
 
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501/?encryption=none\u0026flow=\u0026host=varzesh3.com\u0026type=tcp\u0026headerType=http","","
 
@@ -232,11 +232,11 @@ vless://3794b5d7-0aa6-4112-abc2-5dcea1d685d5@147.45.178.175:2053/?type=grpc\u002
 
 vless://39420bb7-5535-48fc-c56c-5c98c6eafce8@185.208.77.113:11140/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
+vless://3a73e2f9-0668-4caf-bc10-1fda91c4d543@g1.dynamicf14.top:3400?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
+
 vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&encryption=none&security=&host=blaze-can-118.blazecanada.site&path=/?ed=2560/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=#telegram 🚀 DailyV2ry
 
-vless://3afb0e5d-5c7f-40e9-9d02-046fbd4c87aa@188.132.141.240:602?mode=gun&security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&fp=chrome&type=grpc&serviceName=888vless&sni=dash.cloudflare.com&sid=31e7200536a1ad45#%F0%9F%87%B9%F0%9F%87%B7%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%20%40confioXY
-
-vless://3afb0e5d-5c7f-40e9-9d02-046fbd4c87aa@188.132.141.240:602?mode=gun&security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&fp=chrome&type=grpc&serviceName=888vless&sni=dash.cloudflare.com&sid=31e7200536a1ad45#%F0%9F%87%B9%F0%9F%87%B7%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%20%40proxygodratmand
+vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@ir238.cdnscloud.org:7777?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%40NETMelliAnti
 
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 
