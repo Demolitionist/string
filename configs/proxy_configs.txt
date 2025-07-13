@@ -36,6 +36,10 @@ vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?security=none&enc
 
 vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💧
 
+vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#%40NETMelliAnti
+
+vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#%40meli_proxyy
+
 vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@meli_proxyy
 
 vless://0caed718-9b65-40c8-873d-7d7236ff3e75@188.245.119.163:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🎪 DailyV2ry
@@ -83,6 +87,8 @@ vless://186afaf8-214f-4437-add3-0aadaaa53a81@liteb.myfootage.top:443?security=no
 vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@meli_proxyy
 
 vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#telegram 🌈 DailyV2ry
+
+vless://1bfb8c7d-a8f0-460d-f7a5-0e48df2beb30@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=edge&spx=%2F%D9%85%D8%B4%D8%AA%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%D9%86%D8%A7%D9%85%D9%88%D8%B5%D8%A7%20%F0%9F%97%BF%F0%9F%98%AD%F0%9F%99%8F%20xzjinx%40&type=tcp&sni=ea.com&sid=c7bc4d#%D9%85%D8%B4%D8%AA%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%D9%86%D8%A7%D9%85%D9%88%D8%B5%D8%A7%20%F0%9F%97%BF%F0%9F%98%AD%F0%9F%99%8F%20xzjinx%40
 
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@meli_proxyy
 
@@ -245,12 +251,6 @@ vless://47bf2abb-a85f-4923-b022-519052bb5dea@85.133.215.3:5366?encryption=none&s
 vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI\u0026sid=","","
-
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#S113
-
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026sid=","","
-
-vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?encryption=none&security=none&type=tcp&headerType=http&host=efvu5cgz.speedtest1.shatel.ir#@VIProxys
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
