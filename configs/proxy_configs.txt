@@ -192,8 +192,6 @@ vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FTel-%40V
 
 vless://3794b5d7-0aa6-4112-abc2-5dcea1d685d5@147.45.178.175:2053/?type=grpc\u0026encryption=none\u0026serviceName=xyz\u0026sni=sourceforge.net\u0026fp=chrome\u0026security=reality\u0026pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc\u0026sid=6ba85179e30d4fc2","","
 
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FV2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#%40aurora_vpn
-
 vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@185.191.77.14:989/?type=tcp\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=acc.eternalping.ir\u0026alpn=h2","","
 
 vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989/?type=tcp\u0026encryption=none\u0026flow=\u0026security=tls\u0026sni=acc.eternalping.ir\u0026alpn=h2","","
@@ -205,6 +203,8 @@ vless://3c1b6cb1-6f68-4431-8fed-feb21b96d71b@91.99.170.96:40212?security=&encryp
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@300232332.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👻
 
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤡
+
+vless://3d7a5834-e52b-40cc-ae4f-f23a00fc9f4a@82.115.18.218:57072?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌙
 
 vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KUHJho91NIJLrX&security=tls&alpn=http%2F1.1&encryption=none&host=wwwwwdrt.444682.xyz&type=ws&sni=wwWwWDrt.444682.XyZ#%40Daily_Configs
 
@@ -232,6 +232,8 @@ vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?encryption=none&s
 
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=lake3.global.ssl.fastly.net&path=%2Fgfsfdsese%3Fed%3D2560&mode=auto#@meli_proxyy
 
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?mode=auto&path=%2Fgfsfdsese%3Fed%3D2560&security=&encryption=none&host=lake3.global.ssl.fastly.net&type=xhttp#%40NETMelliAnti
+
 vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&path=%2Fgfsfdsese%3Fed%3D2560&host=lake3.global.ssl.fastly.net&mode=auto&security=none#@meli_proxyy
 
 vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoom.us\u0026path=%2FFREE%20by%20Tharuwa%20%280767597317%29","","
@@ -249,8 +251,6 @@ vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?encryption=none&se
 vless://4b1171b2-65f9-41a3-9d78-59b95876501d@91.99.194.199:7777/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E\u0026sid=42c0b628ba6a42a9","","
 
 vless://4b1171b2-65f9-41a3-9d78-59b95876501d@hound.origamimarketings.com:7777/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E\u0026sid=42c0b628ba6a42a9","","
-
-vless://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=iiiiiiiiiiio.huangshang.dpdns.org\u0026path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd\u0026security=tls\u0026sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
