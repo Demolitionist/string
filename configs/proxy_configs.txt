@@ -138,8 +138,6 @@ vless://2b74d623-68b3-4fca-988b-5b5d5fc85c75@fl-vip.digitalldns.net:8080?securit
 
 vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@37.152.173.222:62306?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#@VIProxys
 
-vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:31665?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#@VIProxys
-
 vless://2bd0fb57-e270-4775-bddb-e4fb0648f090@62.60.163.206:19198?encryption=none&security=tls&sni=s1.fastsnap.info&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#@VIProxys
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.178.3:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
@@ -251,6 +249,8 @@ vless://4b1171b2-65f9-41a3-9d78-59b95876501d@91.99.194.199:7777/?type=tcp\u0026e
 vless://4b1171b2-65f9-41a3-9d78-59b95876501d@hound.origamimarketings.com:7777/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E\u0026sid=42c0b628ba6a42a9","","
 
 vless://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=iiiiiiiiiiio.huangshang.dpdns.org\u0026path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd\u0026security=tls\u0026sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG","","
+
+vless://4b33b482-25bc-49e4-b866-878c914d945a@iiiiiiiiiiio.huangshang.dpdns.org:443?path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd&security=tls&encryption=none&host=iiiiiiiiiiio.huangshang.dpdns.org&fp=chrome&type=ws&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG#%F0%9F%87%A8%F0%9F%87%A6%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
