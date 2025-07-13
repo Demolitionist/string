@@ -186,6 +186,8 @@ vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.ne
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=NpFzCqA01g.V2pLuSmLm.OrG\u0026path=%2F\u0026security=tls\u0026sni=NpFzCqA01g.V2pLuSmLm.OrG","","
 
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#%F0%9F%97%BD%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%AF%D8%B1%D9%88%D9%87%20%DA%AF%D9%88%DA%AF%D9%88%D9%84%DB%8C%20%40ProxyOrbit
+
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026path=%2F\u0026security=tls\u0026sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026alpn=h3h2","","
@@ -249,8 +251,6 @@ vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&p
 vless://47bf2abb-a85f-4923-b022-519052bb5dea@85.133.215.3:5366?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#@VIProxys
 
 vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI\u0026sid=","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
