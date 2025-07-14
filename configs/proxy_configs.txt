@@ -188,7 +188,7 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026path=%2F\u0026security=tls\u0026sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026alpn=h3h2","","
 
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🍊 DailyV2ry
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🌟 DailyV2ry
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=JgNrN7eDm0.EmShAbKhObE.oRg&type=ws&alpn=h3h2&host=JgNrN7eDm0.EmShAbKhObE.oRg&path=/#telegram 🌈 DailyV2ry
 
