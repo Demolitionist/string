@@ -28,6 +28,8 @@ vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?mode=au
 
 vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?encryption=none&security=none&type=tcp&headerType=none#@meli_proxyy
 
+vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?security=none&encryption=none&headerType=none&type=tcp#%40YOOZCARD%20%E2%9B%94%DA%A9%D9%BE%DB%8C%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%85%D9%85%D9%86%D9%88%D8%B9%20%F0%9F%9A%AB
+
 vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 vless://080ab9d1-66da-4711-96c6-9bdeb6c90093@31.7.73.146:17778?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@meli_proxyy
@@ -250,8 +252,6 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&
 
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026sid=","","
 
-vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?encryption=none&security=none&type=tcp&headerType=http&host=efvu5cgz.speedtest1.shatel.ir#@VIProxys
-
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
@@ -328,7 +328,7 @@ hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzc
 
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?obfs=salamander&obfs-password=rPvCrCom7ETCNOvA&sni=h2.gzcloud.shop&insecure=0#@meli_proxyy
 
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071409532
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071413480
 
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 
