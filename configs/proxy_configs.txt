@@ -82,8 +82,6 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=realit
 
 vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#telegram 🌈 DailyV2ry
 
-vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#%40NETMelliAnti%20%D8%AC%D9%88%DB%8C%D9%86%20%D9%86%D8%B2%D9%86%DB%8C%20%D8%A2%D9%81%20%D9%85%DB%8C%D8%B4%D9%87
-
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ryDaily V2ry#VPN
@@ -190,7 +188,7 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026path=%2F\u0026security=tls\u0026sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026alpn=h3h2","","
 
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🌟 DailyV2ry
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🍊 DailyV2ry
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=JgNrN7eDm0.EmShAbKhObE.oRg&type=ws&alpn=h3h2&host=JgNrN7eDm0.EmShAbKhObE.oRg&path=/#telegram 🌈 DailyV2ry
 
@@ -224,6 +222,8 @@ vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KU
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
 
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#%5B%F0%9F%87%BA%F0%9F%87%B2%5D%20Telegram%3A%20%40V2rayNG2008%20%E2%9A%A1%EF%B8%8F
+
 vless://411c949a-1860-42c7-8ade-2d84cc3546c4@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zenedmm.ir&type=ws#@meli_proxyy
 
 vless://411c949a-1860-42c7-8ade-2d84cc3546c4@power.teampluss.ir:80?security=none&type=ws&path=/Pak91jqn-Mehskl.ir.shop.com?ed%3D2048&host=Zenedmm.ir&packetEncoding=xudp&encryption=none#@meli_proxyy
@@ -238,6 +238,8 @@ vless://41f0b028-33eb-488e-99cc-b24778d4d417@104.16.64.38:2096/?type=ws\u0026enc
 
 vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?encryption=none&security=none&type=tcp&headerType=http#@VIProxys
 
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?mode=auto&path=%2Fgfsfdsese%3Fed%3D2560&security=none&encryption=none&host=lake3.global.ssl.fastly.net&type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%A6%5D%20Telegram%3A%20%40V2rayNG2008%20%E2%9A%A1%EF%B8%8F
+
 vless://47bf2abb-a85f-4923-b022-519052bb5dea@85.133.215.3:5366?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#@VIProxys
 
 vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -249,8 +251,6 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026sid=","","
 
 vless://4a97cff9-6a61-403f-a4fb-e54853f132a4@194.182.79.117:35305?mode=gun&security=reality&encryption=none&pbk=S8LYaLxf-eMRhIuDxpKuHKs6XBSk1mstDowwxjVYEQI&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=99a2319d8ed309#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍏
-
-vless://4a97cff9-6a61-403f-a4fb-e54853f132a4@194.182.79.117:35305?mode=gun&security=reality&encryption=none&pbk=S8LYaLxf-eMRhIuDxpKuHKs6XBSk1mstDowwxjVYEQI&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=99a2319d8ed309#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒
 
