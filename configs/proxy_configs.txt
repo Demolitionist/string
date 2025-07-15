@@ -72,7 +72,7 @@ vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&secu
 
 vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#@meli_proxyy
 
-vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
+vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🌈 DailyV2ry
 
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ryDaily V2ry#VPN
 
@@ -180,7 +180,7 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026path=%2F\u0026security=tls\u0026sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026alpn=h3h2","","
 
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🍊 DailyV2ry
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&alpn=h3h2&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&path=/#telegram 🌟 DailyV2ry
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=JgNrN7eDm0.EmShAbKhObE.oRg&type=ws&alpn=h3h2&host=JgNrN7eDm0.EmShAbKhObE.oRg&path=/#telegram 🌈 DailyV2ry
 
