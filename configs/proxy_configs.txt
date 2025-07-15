@@ -290,6 +290,8 @@ vless://096a9f0a-d198-401c-8e18-7bc12e1e13e6@31.97.47.248:40444?security=reality
 
 vless://0a7a6ade-c0f3-4242-9958-3c0c76adb88e@iptz-47.almass22.ir:2086?encryption=none&security=none&type=httpupgrade&host=er7cdn47.almass22.ir&path=%2FAar%2Cd-F%3Fed%3D2086#@meli_proxyy
 
+vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?security=reality&encryption=none&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=Tgju.org&sid=b525ecd2fc#%40yejoriconfig%20%3D%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%20%D9%86%D8%B4%D9%87%F0%9F%94%A5%E2%9D%A4%EF%B8%8F[[yejoriconfig
+
 vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💧
 
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?encryption=none&security=reality&sni=cloudflare.com&fp=randomized&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&sid=9ecc4615ce&type=grpc&authority=&serviceName=Telegram%3A%40FergalVpnMod&mode=gun#@meli_proxyy
@@ -322,8 +324,6 @@ vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&
 
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40JOKERRVPNBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🙏
 
-vless://1593c648-9b96-4542-bb53-0e8f55e20e77@Aule.Manwe.ir:443?type=xhttp&path=%2FYavanna%2F&host=&mode=stream-one&security=tls&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3&sni=Varda.Manwe.ir#%DA%86%D9%86%D9%84%20%40proxie%20%F0%9F%94%B4
-
 vless://163dcbe2-1b39-4bbf-8c3e-9c54c29af199@91.99.186.13:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=fast.com&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FCoNFiGLiNE@CONFiGLiNE
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?encryption=none&security=tls&sni=rayan-supra.parisa.dpdns.org&type=ws&host=rayan-supra.parisa.dpdns.org&path=%2F%3Fed%3D2560#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
@@ -333,8 +333,6 @@ vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&secu
 vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#@meli_proxyy
 
 vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#@meli_proxyy
-
-vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8&fp=chrome&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&spx=/&headerType=none#blacklife693
 
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
@@ -426,13 +424,13 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=%2F...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#IRAN%20280%20%28%40Outline_Vpn%29%20free
 
-vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
-
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍉
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@meli_proxyy
 
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍕
+
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----...%3Fed%3D2560&security=tls&encryption=none&host=MydigiKala.pages.dev&type=ws&sni=pages.dev#%40yejoriconfig%20%3D%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%20%D9%86%D8%B4%D9%87%F0%9F%94%A5%E2%9D%A4%EF%B8%8F[[yejoriconfig
 
 vless://38c92498-3e66-4016-b45c-c51666bc3389@216.22.5.100:443?type=xhttp&path=%2Fsdf&host=&mode=auto&security=none#telegram 🎯 DailyV2ry
 
@@ -499,6 +497,8 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@52.19.195.14:443?security=reality&e
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@52.50.153.181:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#@meli_proxyy
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@52.50.153.181:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#telegram 🍀 DailyV2ry
+
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#@meli_proxyy
 
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
