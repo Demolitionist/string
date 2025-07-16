@@ -340,7 +340,7 @@ hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzc
 
 hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563?obfs=salamander&obfs-password=rPvCrCom7ETCNOvA&sni=h2.gzcloud.shop&insecure=0#@meli_proxyy
 
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071609887
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%E7%BE%8E%E5%9B%BD_071613891
 
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 
