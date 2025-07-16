@@ -118,8 +118,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Tp34MzH9gR.vPbEtHoRvP002.iNfO&type=ws&sni=Tp34MzH9gR.vPbEtHoRvP002.iNfO#@meli_proxyy
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=VpNwS2iJkA.vPbEtHoRvP002.iNfO&type=ws&sni=VpNwS2iJkA.vPbEtHoRvP002.iNfO#@meli_proxyy
-
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=D324vSmBvE.aAaZzZaAa-89.InFo&type=ws&alpn=h3h2&host=D324vSmBvE.aAaZzZaAa-89.InFo&path=/#@meli_proxyy
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=D324vSmBvE.aAaZzZaAa-89.InFo&type=ws&alpn=h3h2&host=D324vSmBvE.aAaZzZaAa-89.InFo&path=/#telegram 🌺 DailyV2ry
@@ -170,6 +168,8 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKC
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKCuG9Ci6Xf1/MTg1LjE4OC4xNDcuNzk=?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SIMowebSITespeedTESt.ir#telegram 🍊 DailyV2ryDaily V2ry#VPN
 
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#@meli_proxyy
+
 vless://2a4e29dc-db1e-4b02-a60d-18a1bddb37a0@151.101.67.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#%40ZEDMODEON%20%F0%9F%87%A8%F0%9F%87%BF%2070
 
 vless://2b9fe769-ba91-4212-80c6-80dde4c030a3@37.152.173.222:62306?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#@VIProxys
@@ -185,8 +185,6 @@ vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?encryption=n
 vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706434658.amsterdam-prx-dnraaal.info&path=/ydgmopws#telegram 🍀 DailyV2ryDaily V2ry#VPN
 
 vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?path=%2Fydgmopws%23Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#@meli_proxyy
-
-vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?path=%2Fydgmopws&security=tls&encryption=none&host=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706434658.amsterdam-prx-dnraaal.info#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=chrome","","
 
@@ -251,6 +249,8 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@meli_proxyy
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#@meli_proxyy
 
