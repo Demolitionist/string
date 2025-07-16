@@ -86,7 +86,7 @@ vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&
 
 vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8#@meli_proxyy
 
-vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🌈 DailyV2ry
+vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
 vless://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 
@@ -184,8 +184,6 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&hos
 
 vless://3225893e-09d0-4822-a19a-04fb39066d22@103.71.23.210:443?security=reality&encryption=none&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=102707ab31571a93#@meli_proxyy
 
-vless://3363185d-ee02-44ac-a127-1c65fc02ada8@188.114.96.1:443?path=%2F&security=tls&encryption=none&host=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev&type=ws&sni=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
-
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443/?type=ws\u0026encryption=none\u0026host=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026path=%2F\u0026security=tls\u0026sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg\u0026alpn=h3h2","","
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@meli_proxyy
@@ -222,8 +220,6 @@ vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@5.56.134.54:989/?type=tcp\u0026encr
 
 vless://3c99b5dd-43ba-4766-b76d-cdfa9bd93612@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706353870.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706353870.amsterdam-prx-dnraaal.info&path=/qpvqrgws#telegram 🎪 DailyV2ry
 
-vless://3cb5a432-59e0-4091-b912-e0b3bf218eda@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638879417435319678.rome-prx-dnraaao.info&type=ws&alpn=&host=638879417435319678.rome-prx-dnraaao.info&path=/dzzdkews#telegram 🌟 DailyV2ry
-
 vless://3d7a5834-e52b-40cc-ae4f-f23a00fc9f4a@82.115.18.218:57072?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌙
 
 vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KUHJho91NIJLrX&security=tls&alpn=http%2F1.1&encryption=none&host=wwwwwdrt.444682.xyz&type=ws&sni=wwWwWDrt.444682.XyZ#%40Daily_Configs
@@ -251,6 +247,10 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp\u0026en
 vless://4a97cff9-6a61-403f-a4fb-e54853f132a4@194.182.79.117:35305?mode=gun&security=reality&encryption=none&pbk=S8LYaLxf-eMRhIuDxpKuHKs6XBSk1mstDowwxjVYEQI&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=99a2319d8ed309#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍏
 
 vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?encryption=none&security=none&type=tcp&headerType=http&host=efvu5cgz.speedtest1.shatel.ir#@VIProxys
+
+vless://4ac9748e-ab31-499e-9221-3e75c314b503@194.182.79.72:32827?mode=gun&security=reality&encryption=none&pbk=Q-zmZ8W_ZN8ua7qt2xGR9EHG56TfC4LL39V7pNcM0gM&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=e69d8702eba67ed7#@meli_proxyy
+
+vless://4b33b482-25bc-49e4-b866-878c914d945a@iiiiiiiiiiio.huangshang.dpdns.org:443?path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd&security=tls&encryption=none&host=iiiiiiiiiiio.huangshang.dpdns.org&fp=chrome&type=ws&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG#%F0%9F%87%A8%F0%9F%87%A6%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
