@@ -114,8 +114,6 @@ vless://20a5849d-7f01-4a89-a296-05a39040deac@142.132.227.65:33036?security=&encr
 
 vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#@VIProxys
 
-vless://21b53da2-37ed-49f6-a733-4fd0eb7821a4@2.189.161.76:8080?security=none&encryption=none&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%AB%A3
-
 vless://22b2c850-750e-456a-b916-c94f8638588b@128.140.95.85:57740?mode=auto&path=%2F%3Fed%3D2052&security=reality&encryption=none&pbk=uF5gsacUUmi8DyV8YZENFpnMtcYFShVh-WF6n11MhDU&fp=chrome&spx=%2Fexample&type=xhttp&sni=refersion.com&sid=0f#@meli_proxyy
 
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#telegram 🍊 DailyV2ryDaily V2ry#VPN
@@ -251,6 +249,8 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encry
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%9D
 
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@meli_proxyy
+
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sni=yahoo.com&sid=89&spx=/#telegram 🌺 DailyV2ry
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
