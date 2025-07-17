@@ -100,6 +100,8 @@ vless://14FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000/?type=grpc\u0026enc
 
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40DarisPROXY%20-%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
+
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🍀 DailyV2ry
 
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?type=tcp\u0026encryption=none\u0026sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir\u0026fp=chrome\u0026security=reality\u0026pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ\u0026sid=974a74bf","","
@@ -249,8 +251,6 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKC
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#@meli_proxyy
 
 vless://2a4e29dc-db1e-4b02-a60d-18a1bddb37a0@151.101.67.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#%40ZEDMODEON%20%F0%9F%87%A8%F0%9F%87%BF%2070
-
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
