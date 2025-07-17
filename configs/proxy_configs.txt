@@ -10,8 +10,6 @@ vless://01860891-2645-420f-a494-a653d960f58d@151.232.51.247:2096/?encryption=non
 
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@meli_proxyy
-
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
 vless://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.249:443?encryption=none&security=tls&sni=mhsang2c3.afsharidempire.uk&alpn=http%2F1.1&fp=chrome&type=ws&host=mhsang2c3.afsharidempire.uk&path=%2F8Ku2BGY685PUNtppXQIC9t#@VIProxys
@@ -32,13 +30,19 @@ vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&e
 
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#@meli_proxyy
 
+vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
+
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=&encryption=none&host=skyroom.online&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#@meli_proxyy
 
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
+
 vless://06ae8a15-3ceb-455d-a3c1-04696510f676@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐡
 
 vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?mode=auto&path=%2Frezataheri%3Fed%3D2560&security=none&encryption=none&host=reasmodeus.global.ssl.fastly.net&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐳
+
+vless://08016b13-fb33-4b61-9608-cf79d5e27414@pl.panelmarzban.com:3038?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40ROFLVPN
 
 vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💧
 
@@ -67,6 +71,8 @@ vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp\u0026e
 vless://1343289b-3518-48da-9ee6-1bc99860b505@104.18.26.90:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com\u0026path=%2FTwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService%3Fed%3D2560\u0026security=tls\u0026sni=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com\u0026alpn=http%2F1.1\u0026fp=chrome","","
 
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Daily_Configs
+
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
 
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#telegram 🍀 DailyV2ry
 
@@ -128,11 +134,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=UmVe3Io26T.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=UmVe3Io26T.sAlAmGoJaI09-2.iNfO&path=/#telegram 🎪 DailyV2ry
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=DcQu6VaQaY.vPbEtHoRvP002.iNfO&type=ws&sni=DcQu6VaQaY.vPbEtHoRvP002.iNfO#@meli_proxyy
-
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐝
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Tp34MzH9gR.vPbEtHoRvP002.iNfO&type=ws&sni=Tp34MzH9gR.vPbEtHoRvP002.iNfO#@meli_proxyy
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443/?type=ws&encryption=none&flow=&host=D324vSmBvE.aAaZzZaAa-89.InFo&path=%2F&security=tls&sni=D324vSmBvE.aAaZzZaAa-89.InFo&alpn=h3h2#@meli_proxyy
 
@@ -149,8 +151,6 @@ vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80/?type=ws\u0026enc
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌱
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
-
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
 
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792/?encryption=none\u0026host=cloud.ir\u0026type=tcp\u0026headerType=http","","
 
@@ -224,8 +224,6 @@ vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?path=%2F
 
 vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706434658.amsterdam-prx-dnraaal.info&path=/ydgmopws#telegram 🍀 DailyV2ry
 
-vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706434658.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706434658.amsterdam-prx-dnraaal.info&path=/ydgmopws#telegram 🍀 DailyV2ryDaily V2ry#VPN
-
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=chrome","","
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=chrome","","
@@ -251,6 +249,8 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.53.13:1743?type=tcp&path=/&ho
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%9D
+
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.68.198:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
