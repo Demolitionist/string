@@ -20,7 +20,7 @@ vless://01860891-2645-420f-a494-a653d960f58d@151.232.51.247:2096/?encryption=non
 
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
-vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#telegram 🚀 DailyV2ry
+vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#telegram 🍊 DailyV2ry
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
@@ -39,10 +39,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?path=%2Ftelegra
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#telegram 🍀 DailyV2ryDaily V2ry#VPN
 
 vless://05dae90c-872c-4d10-bd13-09523d53c27f@em-2.webnama.com.tr:3799/?encryption=none\u0026flow=\u0026host=varzesh3.com\u0026type=tcp\u0026headerType=http","","
-
-vless://06ae8a15-3ceb-455d-a3c1-04696510f676@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐡
-
-vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?mode=auto&path=%2Frezataheri%3Fed%3D2560&security=none&encryption=none&host=reasmodeus.global.ssl.fastly.net&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐳
 
 vless://07d61ea9-0d99-43c4-b950-3a315666b25f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Nice-bridGE.ONeeaT.co&type=ws#telegram 🍀 DailyV2ry
 
@@ -186,15 +182,21 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKC
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=%2F1u40Y2pvl82tR3i8%2FMTk0LjM4LjIwLjc4%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=%2FOvFDUa0OIcxzDtAe%2FMjEzLjE0OC4xMC4xNzc&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOwebsiTeSPeedTEsT.IR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2F1QVex5pL4u1tKIK6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOWeBSItESPeeDtESt.Ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FF9Ngmzj1IMbW2Cyc%2FMTguMTgzLjE1OC4yMTE&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SiMOwEBsItESPEedTeSt.iR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FFY78Jwbpng8dLmb2%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=siMOweBSITESPeEdTest.IR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FImnZuDCV3mYi6m6f%2FNS4xMC4yMTUuMjY&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOWeBSitESPeEdtesT.Ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FKFh3HO76VUQPJDgM%2FOC4yMjAuMTM0LjEzNg&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simoWEbsiTESPEedTEST.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FniD0IbaNuq8dRBa6%2FNDYuMTcuMTAwLjEyOA&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simowEBsItESpEeDTESt.ir#%40NETMelliAnti%209
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FaLbptiCbxJp51H0V%2FNTQuNzkuMTMzLjQx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=sIMOwEBSItesPEedTEsT.iR#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FniD0IbaNuq8dRBa6%2FNDYuMTcuMTAwLjEyOA&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simowEBsItESpEeDTESt.ir#@meli_proxyy
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FniD0IbaNuq8dRBa6%2FNDYuMTcuMTAwLjEyOA&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simowEBsItESpEeDTESt.ir#%40NETMelliAnti%209
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5pL4u1tKIK6?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOWeBSItESPeeDtESt.Ir#telegram 🚀 DailyV2ry
 
@@ -249,8 +251,6 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443/?type=ws\u0026encry
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
-
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=NpFzCqA01g.V2pLuSmLm.OrG\u0026path=%2F\u0026security=tls\u0026sni=NpFzCqA01g.V2pLuSmLm.OrG","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
