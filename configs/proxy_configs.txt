@@ -76,8 +76,6 @@ vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&securi
 
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
-vless://0f0d5c7d-2b29-4d5b-a75a-a79fcfcff951@direct.software.dl.01.securemaster.shop:9520?security=reality&encryption=none&pbk=TnStNibE6yB3xU4OtBGeOR0g-oO1JZHDHXj4RVA_ggs&fp=firefox&spx=%2FjxYRwjFAutg43vd&type=grpc&serviceName=9520vless&sni=refersion.com&sid=e9e22a7c#telegram 🌺 DailyV2ryDaily V2ry#VPN
-
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?path=%2F&security=&encryption=none&type=ws#@meli_proxyy
@@ -251,6 +249,8 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/KFh3HO7
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKCuG9Ci6Xf1/MTg1LjE4OC4xNDcuNzk=?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SIMowebSITespeedTESt.ir#telegram 🍊 DailyV2ryDaily V2ry#VPN
 
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5pL4u1tKIK6?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOWeBSItESPeeDtESt.Ir#telegram 🚀 DailyV2ry
+
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
