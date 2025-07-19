@@ -22,7 +22,7 @@ vless://01860891-2645-420f-a494-a653d960f58d@151.232.51.247:2096/?encryption=non
 
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#telegram 🍀 DailyV2ry
 
-vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#telegram 🚀 DailyV2ry
+vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#telegram 🍊 DailyV2ry
 
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443/?encryption=none\u0026flow=\u0026host=zula.ir\u0026type=tcp\u0026headerType=http","","
 
