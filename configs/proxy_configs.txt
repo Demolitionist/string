@@ -96,6 +96,8 @@ vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080/?type=ws\u0026enc
 
 vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082/?type=ws\u0026encryption=none\u0026flow=\u0026host=refersion.com\u0026path=%2F","","
 
+vless://19d52368-a6e5-46d7-8fea-97a4f963d9cd@des.kharswii1.milxbywkaiwnx.xyz:443?type=tcp&path=%2F&host=cloudflare.com&headerType=http&security=none#5%40V2rex_Network%D8%B9%D8%B6%D9%88%20%DA%86%D9%86%D9%84%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%87
+
 vless://1a8539db-bb26-4ea6-82b9-68b29adfdbcd@www.speedtest.net:2095/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026host=Fi1.vipmehspd.ir.\u0026path=%2F%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02%40FREE_VPN02","","
 
 vless://1aebaf1a-295a-40fe-86e4-80fca6516036@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=faBULoUS-fortune.oNEEat.CO&type=ws#telegram 🎪 DailyV2ry
@@ -249,8 +251,6 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
 vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?path=%2F...&security=none&encryption=none&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&type=ws#IRAN%20280%20%28%40Outline_Vpn%29%20free
-
-vless://36bf5874-aadd-4cc6-bd75-5d27a0696df2@adssec39.netpilotserverne22twork.ir:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=chatgpt.com&fp=chrome&pbk=95ZipQ9WewfrjiMBHhhSQvcSV4X0HmyKxhk2Kmv6xmM&sid=94487a4ef6ca8143#telegram 🚀 DailyV2ry
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
