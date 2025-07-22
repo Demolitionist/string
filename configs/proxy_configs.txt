@@ -84,8 +84,6 @@ vless://1b4b22ab-ab97-4bb9-b46e-3075e4515c74@46.38.148.241:49894/?encryption=non
 
 vless://1b4b22ab-ab97-4bb9-b46e-3075e4515c74@poland.a1mshop2.xyz:49894/?encryption=none\u0026flow=\u0026host=www.speedtest.net\u0026type=tcp\u0026headerType=http ","","
 
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
-
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F ","","
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443 ","","
@@ -124,7 +122,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=FyJdEtIrA7.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=FyJdEtIrA7.sAlAmGoJaI09-2.iNfO&path=/#telegram 🌟 DailyV2ry
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&type=ws&alpn=h3h2&host=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&path=/#telegram 🌟 DailyV2ry
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&type=ws&alpn=h3h2&host=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&path=/#telegram 🎪 DailyV2ry
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&path=/#telegram 🌟 DailyV2ry
 
@@ -137,8 +135,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2F%40ShadowProxy66-%3Fed%3D2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
-
-vless://2751d4fd-f5de-46fd-bc98-44a0b43a274a@meli_proxyy.vip-plan.org:50452?type=grpc&serviceName=&authority=&security=reality&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&fp=chrome&sni=yahoo.com&sid=10&spx=%2F#@meli_proxyy
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=86e999a2cdc2 ","","
 
@@ -251,6 +247,10 @@ vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443/?type
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=%2F&security=&encryption=none&type=ws#telegram 🍊 DailyV2ry
 
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20352%20%28%40Outline_Vpn%29%20free
+
+vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706498046.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706498046.amsterdam-prx-dnraaal.info&path=/citxcbws#telegram 🎯 DailyV2ry
+
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI\u0026sid= ","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
