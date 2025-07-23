@@ -128,7 +128,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3D
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#2%EF%B8%8F%E2%83%A3%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%40V2GaMaBot
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥷
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👋
 
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?security=none&encryption=none&type=ws#@meli_proxyy
 
@@ -147,6 +147,8 @@ vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.234.31.30:443?type=xhttp&path=%
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE\u0026sid=788456bc ","","
 
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164/?type=tcp\u0026encryption=none\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE\u0026sid=788456bc","","
+
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
 
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=InviNCIble.FAfA20.shOP#IRAN%20371%20%28%40Outline_Vpn%29%20free
 
@@ -251,8 +253,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F23Tqz
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=PAgES.dev#%F0%9F%A5%B7POORIAred11
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F34s21r6vYhBCNtql%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria304.diyone7732.workers.dev&fp=randomized&type=ws&sni=poorIa304.DiyoNe7732.WORkeRS.Dev#🔥📌POORIA16
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FAie2oYHsv2KoweKf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.divekot939.workers.dev&fp=randomized&type=ws&sni=pOorIa.DIVEkoT939.WOrKers.Dev#🔥📌POORIA15
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
