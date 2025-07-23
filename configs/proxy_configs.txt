@@ -12,6 +12,8 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegr
 
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 
+vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#telegram 🚀 DailyV2ry
+
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F ","","
@@ -134,7 +136,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=Ee2Y9w0L9b.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Ee2Y9w0L9b.SaLaMgOjAi09-2.InFo&path=/#telegram 🎯 DailyV2ry
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=LbFyU1fWyV.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=LbFyU1fWyV.sAlAmGoJaI09-2.iNfO&path=/#telegram 🌈 DailyV2ry
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=Ra29UeSzQc.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Ra29UeSzQc.SaLaMgOjAi09-2.InFo&path=/#telegram 🌺 DailyV2ryDaily V2ry#VPN
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
@@ -162,6 +164,8 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?s
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=8453e5fd9af927 ","","
 
+vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@198.58.116.209:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#telegram 🌈 DailyV2ry
+
 vless://2a0e68d1-56e9-43cc-802f-5cbc617e8e98@66.228.49.44:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F ","","
@@ -182,7 +186,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443/?type=ws\u0026encryp
 
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?security=none&encryption=none&type=ws#@meli_proxyy
 
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.45.64:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram 🎯 DailyV2ry
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.62.20:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎪 DailyV2ry
 
 vless://320bc89e-2a48-42c4-b7b2-0f982342a9fe@5.181.3.169:2040?security=reality&encryption=none&pbk=hOt5bCyO5AwK6aGZKIOBR0U-wPgu_13HjvTMAfBgAT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%40V2RAY_VMESS_free
 
@@ -204,9 +208,9 @@ vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.236.100.244:443?mode=stream-one
 
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.236.115.232:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE\u0026sid=788456bc ","","
+vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?path=%2F&security=tls&encryption=none&host=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv&type=ws&sni=eSEtsecuriTYLIceNse.pUDmnquf.WorKErS.dEv#telegram 🌟 DailyV2ry
 
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AA
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE\u0026sid=788456bc ","","
 
 vless://36bf5874-aadd-4cc6-bd75-5d27a0696df2@adssec33.netpilotserverne22twork.ir:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=chatgpt.com&fp=chrome&pbk=95ZipQ9WewfrjiMBHhhSQvcSV4X0HmyKxhk2Kmv6xmM&sid=94487a4ef6ca8143#telegram 🍀 DailyV2ry
 
@@ -247,10 +251,6 @@ vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.
 vless://45365216-ec8f-4b10-8549-5d608ec712a6@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706521482.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706521482.amsterdam-prx-dnraaal.info&path=/xjboxaws#telegram 🍀 DailyV2ry
 
 vless://45b260a8-2498-4e43-b6bb-83481ebf6272@kafshu.ir:8080/?type=ws\u0026encryption=none\u0026flow=\u0026host=inFo.laLezaRanegomaNandish.sNap.ir.snapfoodsuppoRt.onlIne.\u0026path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet ","","
-
-vless://47d25560-5b74-41e1-b059-4ead2680e7de@172.66.40.99:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.\u0026path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey ","","
-
-vless://484d4e5b-7ec0-84bc-98fc-b55bb8037f38@portal12.saladshirazi.com:443/?type=tcp\u0026encryption=none\u0026flow= ","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
