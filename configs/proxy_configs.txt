@@ -78,8 +78,6 @@ vless://17a7a43e-fc4d-4bce-94df-124e54026a72@95.128.196.71:53217/?type=tcp\u0026
 
 vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217/?type=tcp\u0026encryption=none\u0026flow= ","","
 
-vless://186c95f5-9814-4082-83f8-948a426f5eac@www.speedtest.net:2096?mode=auto&path=%2Ftest%3Fed%3D2096&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=pars.stepson.ir&fp=chrome&type=xhttp&sni=pars.stepson.ir#the00_amir
-
 vless://194d8644-1921-40d8-9954-61790accf528@87.107.9.181:4422/?encryption=none\u0026flow=\u0026host=www.varzesh3.com\u0026type=tcp\u0026headerType=http ","","
 
 vless://194d8644-1921-40d8-9954-61790accf528@cb22.connectbaash.info:4422/?encryption=none\u0026flow=\u0026host=www.varzesh3.com\u0026type=tcp\u0026headerType=http ","","
@@ -128,7 +126,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=FyJdEtIrA7.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=FyJdEtIrA7.sAlAmGoJaI09-2.iNfO&path=/#telegram 🌟 DailyV2ry
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&type=ws&alpn=h3h2&host=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&path=/#telegram 🌟 DailyV2ry
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&type=ws&alpn=h3h2&host=HvA8cReDsX.mYcOmPaNdOmNeW2.iNfO&path=/#telegram 🎪 DailyV2ry
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&path=/#telegram 🌟 DailyV2ry
 
@@ -251,6 +249,8 @@ vless://45365216-ec8f-4b10-8549-5d608ec712a6@www.speedtest.net:2096?encryption=n
 vless://45b260a8-2498-4e43-b6bb-83481ebf6272@kafshu.ir:8080/?type=ws\u0026encryption=none\u0026flow=\u0026host=inFo.laLezaRanegomaNandish.sNap.ir.snapfoodsuppoRt.onlIne.\u0026path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet ","","
 
 vless://474494eb-e8ef-402e-be1c-f9670fcf3f33@hp.mastertunnel.shop:2096?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Un5haKCXEnekiryaRDLmOHCGEufZfseV6IpdKHnav3M&sid=089604fd79ac01fd&spx=%2F&type=xhttp&host=register.tunnelbreaking.shop&path=%2Fhi&mode=auto#telegram 🍊 DailyV2ry
+
+vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram 🍊 DailyV2ry
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
