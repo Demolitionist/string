@@ -166,15 +166,13 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3D
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👋
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥷
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?security=none&encryption=none&type=ws#@meli_proxyy
 
 vless://320bc89e-2a48-42c4-b7b2-0f982342a9fe@5.181.3.169:2040/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=tradingview.com\u0026fp=chrome\u0026security=reality\u0026pbk=hOt5bCyO5AwK6aGZKIOBR0U-wPgu_13HjvTMAfBgAT0\u0026sid= ","","
-
-vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?path=%2F%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mistlink-cl9.pages.dev&fp=chrome&type=ws&sni=MiSTliNK-CL9.pAgEs.Dev#%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%40V2GaMaBot
 
 vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?path=%2F%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mistlink-cl9.pages.dev&fp=chrome&type=ws&sni=MiSTliNK-CL9.pAgEs.Dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🙏
 
@@ -236,8 +234,6 @@ vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KU
 
 vless://3f8404ed-dcd2-4af3-929a-48286a8b6b68@website.speedtest-iran.ir:9443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=website.speedtest-iran.ir\u0026fp=chrome\u0026security=reality\u0026pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE\u0026sid=4df4b2b9b547fbf7 ","","
 
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#NETMelliAnti
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
@@ -251,6 +247,10 @@ vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
 vless://47dc734a-15e8-4286-b09f-ad0404e85630@172.105.158.108:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=dl.google.com\u0026fp=chrome\u0026security=reality\u0026pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA\u0026sid=e16883e511 ","","
+
+vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
