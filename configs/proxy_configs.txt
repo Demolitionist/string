@@ -8,6 +8,8 @@ vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&t
 
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=random&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@meli_proxyy
 
+vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&fp=random&type=ws&sni=albedoalbedochan.violetchaan.ip-ddns.com#@meli_proxyy
+
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
 
 vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053/?type=ws\u0026encryption=none\u0026flow=\u0026host=chess.com\u0026path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560 ","","
@@ -205,8 +207,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:8080/?type=httpupgrade&e
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=MkS1mYeRw9.SaLaMgOjAi09-2.InFo&type=ws&sni=MkS1mYeRw9.SaLaMgOjAi09-2.InFo#IRAN%20363%20%28%40Outline_Vpn%29%20free
-
-vless://266a574e-667f-4a25-a7f5-d45f9c71cf6d@93.127.181.37:21739?path=%2F&security=none&encryption=none&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%D8%B1%3A-T.me%2FA_
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
