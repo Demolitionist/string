@@ -142,6 +142,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@138.199.232.36:8080/?type=httpupgra
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020/?type=tcp\u0026encryption=none\u0026flow=","","
 
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020/?type=tcp\u0026encryption=none\u0026flow=","","
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2020/?type=tcp\u0026encryption=none\u0026flow=","","
@@ -214,6 +216,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020/?type=tcp&encryp
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020/?type=tcp\u0026encryption=none\u0026flow=","","
 
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020/?type=tcp\u0026encryption=none\u0026flow=","","
@@ -247,10 +251,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:2020/?type=tcp&encry
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:2020/?type=tcp\u0026encryption=none\u0026flow=","","
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:8080/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026path=%2F","","
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
