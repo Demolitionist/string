@@ -32,8 +32,6 @@ vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443/?encryption=none\u
 
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20361%20%28%40Outline_Vpn%29%20free
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?sni=trojan.burgerip.co.uk&type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&encryption=none#66
-
 vless://0788b95c-7a0c-48b3-8a82-d7e07d52baf1@195.42.233.4:443/?type=ws&encryption=none&flow=&path=%2Fnkhnudws&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
 
 vless://0ad7cd3b-80b6-4721-b2ce-ade70e27ac71@tunnyl.ru:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI\u0026sid=5c0333ed45b1","","
@@ -251,6 +249,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:2020/?type=tcp\u0026
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:8080/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026path=%2F","","
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
