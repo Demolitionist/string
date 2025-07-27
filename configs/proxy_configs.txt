@@ -68,8 +68,6 @@ vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?type=tcp\u0026encr
 
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443/?type=tcp\u0026encryption=none\u0026flow=\u0026fp=chrome\u0026security=reality\u0026pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ\u0026sid=974a74bf","","
 
-vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=%2Fazarbayjab1.tab.net%3Fed%3D2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@104.21.17.92:443?path=%2Fazarbayjab1.tab.net%3Fed%3D2560&security=tls&encryption=none&host=ed19-dc7.pages.dev&type=ws&sni=ed19-dc7.pages.dev#@meli_proxyy
 
 vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082/?type=ws\u0026encryption=none\u0026flow=\u0026host=refersion.com\u0026path=%2F","","
@@ -251,6 +249,8 @@ vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZ
 vless://261d2049-2152-449e-bbc8-0e25a8e08fa2@46.38.148.177:443/?encryption=none\u0026flow=\u0026host=analytics.google.com\u0026type=tcp\u0026headerType=http","","
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
+
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2F%40ShadowProxy66-%3Fed%3D2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
