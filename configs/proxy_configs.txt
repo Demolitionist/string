@@ -62,6 +62,16 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp\u0026
 
 vless://17a7a43e-fc4d-4bce-94df-124e54026a72@95.128.196.72:53217/?type=tcp\u0026encryption=none\u0026flow=","","
 
+vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@chat.deepseek.com:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
+
+vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
+
+vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
+
+vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
+
+vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#@meli_proxyy
+
 vless://1ad89e52-ed32-4acf-88f7-caeadb4cd493@212.80.31.132:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
 vless://1ad89e52-ed32-4acf-88f7-caeadb4cd493@212.80.31.132:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
@@ -241,16 +251,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020/?type=tcp\u0026e
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:2020/?type=tcp\u0026encryption=none\u0026flow=","","
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020/?type=tcp\u0026encryption=none\u0026flow=","","
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
