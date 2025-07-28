@@ -20,8 +20,6 @@ vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096/?encrypt
 
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&flow=&path=%2Fhqqprlws&security=tls&allowInsecure=1#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 
-vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fhqqprlws#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880/?type=ws\u0026encryption=none\u0026flow=\u0026host=vghavi32.ip-ddns.com\u0026path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560","","
 
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@meli_proxyy
@@ -49,8 +47,6 @@ vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-sub.serverfreedom.com:20000?sec
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-Telegram-mtmvpn---Telegram-mtmvpn&security=&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#@meli_proxyy
 
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=pingless.com\u0026fp=chrome\u0026security=reality\u0026pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY\u0026sid=b6","","
-
-vless://12625b2c-18c6-4010-96de-31323e814112@vip1.proxystore11.news:10358?type=tcp&security=reality&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&fp=chrome&sni=zula.ir&sid=b373044d&spx=%2F&flow=xtls-rprx-vision#PRX11-REALITY-TCP-zxb71u6p4🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Daily_Configs
 
@@ -156,8 +152,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.142:8080/?type=httpupgr
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.142:8443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.142:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:2020/?type=tcp\u0026encryption=none\u0026flow=","","
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.143:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
@@ -174,8 +168,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2053/?type=grpc&enc
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20grpc%2Btls%20%284e0%29
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2087?encryption=none&security=tls&allowInsecure=1&type=grpc#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
@@ -183,8 +175,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8080/?type=httpupgr
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8080/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%2Btls%20%284e0%29
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.144:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 
@@ -230,8 +220,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.192:8080/?type=httpupgra
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.194:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.194:2020?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
-
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.194:8080/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.194:8080/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026path=%2F","","
@@ -251,6 +239,18 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020/?type=tcp\u0026e
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:2020/?type=tcp\u0026encryption=none\u0026flow=","","
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.230.173:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20%284e0%29
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020/?type=tcp\u0026encryption=none\u0026flow=","","
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:8880/?type=httpupgrade&encryption=none&flow=&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20%284e0%29
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:8880/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
