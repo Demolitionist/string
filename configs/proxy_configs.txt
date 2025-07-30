@@ -74,8 +74,6 @@ vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp\u0026
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20455%20%28%40Outline_Vpn%29%20free🤩 🤩 Outline
@@ -115,6 +113,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&enc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:2020?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
@@ -198,8 +198,6 @@ vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&
 
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#@meli_proxyy
 
-vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=InviNCIble.FAfA20.shOP#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-
 vless://38e45e75-cabb-4b98-8e2f-9d65843b7efa@83.217.222.183:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=microsoft.com\u0026fp=chrome\u0026security=reality\u0026pbk=gi8v7_r3NbWuPl9kjt8ZZLDavCMz1w0rVeNhcVnVxEM\u0026sid=9d56b1e4","","
 
 vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952/?type=tcp\u0026encryption=none","","
@@ -251,6 +249,8 @@ vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?encryption=none&s
 vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&security=tls&encryption=none&host=638874929583386193.zagreb-prx-dnraaad.info&type=ws&sni=638874929583386193.zagreb-prx-dnraaad.info#%40mtmvpn
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026fp=chrome\u0026security=reality\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026sid=f5","","
+
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
