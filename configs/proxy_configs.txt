@@ -122,8 +122,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3D
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FShadowProxy66&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40V2RAYROZ
-
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40v2ray_configs_pools-%40v2ray_configs_pools-\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=chrome","","
@@ -251,6 +249,8 @@ vless://4dbe1831-4a9a-448a-a4a8-edc9d4d4d0ec@152.42.141.126:1615/?type=tcp\u0026
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.16.29.8:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=rayan-11.parastoo.dpdns.org\u0026path=%2F%40Rayan_Config\u0026security=tls\u0026sni=rayan-11.parastoo.dpdns.org\u0026fp=chrome\u0026packetEncoding=xudp","","
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.141.157:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=rayan-10.parastoo.dpdns.org\u0026path=%2F%40Rayan_Config\u0026security=tls\u0026sni=rayan-10.parastoo.dpdns.org\u0026fp=chrome\u0026packetEncoding=xudp","","
+
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.81.220:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=rayan-08.parastoo.dpdns.org\u0026path=%2F%40Rayan_Config\u0026security=tls\u0026sni=rayan-08.parastoo.dpdns.org\u0026fp=chrome","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
