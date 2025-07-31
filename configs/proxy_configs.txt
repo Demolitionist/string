@@ -134,8 +134,6 @@ vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.195.8:80?mode=auto&path=%2F
 
 vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=boro.aziranbegermany.com&type=xhttp#%D9%86%D9%88%D9%86%20%D8%AA%D8%A7%D9%81%D8%AA%D9%88%D9%86%F0%9F%8D%9E
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40uyatnwam%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%E2%80%8C%D9%87%D9%85%DB%8C%D8%B4%D9%87%E2%80%8C%D9%88%D8%B5%D9%84%E2%80%8C%D8%AF%D8%B1%E2%80%8C%DA%86%D9%86%D9%84
-
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
@@ -154,6 +152,10 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443/?type=ws\u0026enc
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dzani.yaemiko.ggff.net%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F%3Fed%3D2560#%40proxybesty%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#%40proxybesty%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40Free_Netplus@Free_NetPlus
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐬
@@ -163,8 +165,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐝
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dzani.yaemiko.ggff.net%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40uyatnwam%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%E2%80%8C%D9%87%D9%85%DB%8C%D8%B4%D9%87%E2%80%8C%D9%88%D8%B5%D9%84%E2%80%8C%D8%AF%D8%B1%E2%80%8C%DA%86%D9%86%D9%84
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
