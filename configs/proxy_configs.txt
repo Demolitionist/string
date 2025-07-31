@@ -10,8 +10,6 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegr
 
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Free_NetPlus
 
-vless://065b8c19-e3b8-4e97-b44e-905738d6cb43@Www.speedtest.net:2095?path=%2F@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1wss9500%3Fed%3D2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#%40IRAN_V2RAY1-Join%20Sho
-
 vless://07e172cd-45a7-4aa1-b840-28a33f7a5acb@www.tgju.org:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=07e172cd-45a7-4aa1-b840-28a33f7a5acb&sni=profile.bagsale.click#@meli_proxyy
 
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?security=reality&encryption=none&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&headerType=none&fp=chrome&type=tcp&sni=Tgju.org&sid=b525ecd2fc#@meli_proxyy
@@ -19,8 +17,6 @@ vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?security=reality
 vless://0d7c7ed3-d23b-4441-a19f-dcd5077bafc4@5.160.144.73:3232?security=&encryption=none&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=i2pd.website\u0026fp=chrome\u0026security=reality\u0026pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE\u0026sid=55e6af1a35e64a98","","
-
-vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20403%20%28%40Outline_Vpn%29%20free
 
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws&path=/#@meli_proxyy
 
@@ -67,6 +63,8 @@ vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.u
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20477%20%28%40Outline_Vpn%29%20free🤩🤩 Outline
+
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20477%20%28%40Outline_Vpn%29%20free🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
@@ -121,6 +119,8 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20476%20%28%40Outline_Vpn%29%20free
 
 vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=learn.microsoft.com\u0026fp=chrome\u0026security=reality\u0026pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4\u0026sid=63cace289fb97072","","
+
+vless://2da0c3ec-1c59-43bf-a1b0-e8d984a1dc54@filmnet.filimnet.com:80/?type=xhttp&path=%2Fcdn%2Fassets%3Fv%3D12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#3%40netv2reyng
 
 vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.24.196.67:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev\u0026path=%2F","","
 
@@ -236,8 +236,6 @@ vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?encryption=none&s
 
 vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&security=tls&encryption=none&host=638874929583386193.zagreb-prx-dnraaad.info&type=ws&sni=638874929583386193.zagreb-prx-dnraaad.info#%40mtmvpn
 
-vless://4bfcf1f9-077d-471e-9fb9-005d082059ae@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=%2F&type=grpc&serviceName=@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1%20@IRAN_V2RAY1@IRAN_V2RAY1%20@IRAN_V2RAY1&sni=refersion.com&sid=a9#Join%20Sho%20%3A%40Iran_V2ray1%20MTN
-
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.117.123.11:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#@meli_proxyy
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.156.163.111:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=store.steampowered.com&sid=f5#@meli_proxyy
@@ -251,6 +249,8 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443/?ty
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026fp=chrome\u0026security=reality\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026sid=f5","","
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026fp=chrome\u0026security=reality\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026sid=f5","","
+
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=store.steampowered.com\u0026fp=chrome\u0026security=reality\u0026pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4\u0026sid=f5","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
