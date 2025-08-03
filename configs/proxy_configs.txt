@@ -60,8 +60,6 @@ vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@87.107.110.155:4406/?encryption=non
 
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍅
 
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@104.18.33.45:443?encryption=none&security=tls&sni=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F#%40v2ray_configs_pool
-
 vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=nkAnG2rEpLACE.airlineSHoma.Com\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=nkAnG2rEpLACE.airlineSHoma.Com\u0026fp=chrome","","
 
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=pingless.com\u0026fp=chrome\u0026security=reality\u0026pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY\u0026sid=b6","","
@@ -75,8 +73,6 @@ vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.124:443?encryption=none
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.5:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#@meli_proxyy
 
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@156.244.29.59:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#@meli_proxyy
-
-vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.105:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#@meli_proxyy
 
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?mode=stream-one&path=%2Fad%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥦
 
@@ -93,8 +89,6 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&e
 vless://172a19c2-80f6-4c10-8f10-3a1e80846762@[2001:15e8:110:6e8e::1]:11747?mode=gun&security=reality&encryption=none&pbk=tcU9NYYuI86TwcXCesNVN2aED32Uzuw3rE-glcJ8Dgw&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=07097bf90a38b8ae#%40ZEDMODEON%20%F0%9F%87%A8%F0%9F%87%BF%20142-v6
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=rayan-supra.parisa.dpdns.org\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=rayan-supra.parisa.dpdns.org","","
-
-vless://17518f18-0da9-489d-a1ae-61fcc746a79a@152.42.141.126:1615?security=reality&encryption=none&pbk=FeiQv7me3tts_1SFDIoeScklFESISNtjROyxkryUxW8&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=41c7#@meli_proxyy
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=analytics.google.com\u0026fp=chrome\u0026security=reality\u0026pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM\u0026sid=1f","","
 
@@ -202,8 +196,6 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%
 
 vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=learn.microsoft.com\u0026fp=chrome\u0026security=reality\u0026pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4\u0026sid=63cace289fb97072","","
 
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?security=reality&encryption=none&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&headerType=none&fp=chrome&type=tcp&sni=digikala.com&sid=fdf18126a0768480#@meli_proxyy
-
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@meli_proxyy
 
 vless://2df2194a-547a-4e2e-bb52-a91932e30fdc@ca.musicbaaz.ir:43669?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=tc.dony-e-eqtesad.com&headerType=http&fp=chrome&type=tcp&sni=ca.musicbaaz.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
@@ -216,15 +208,9 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encr
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome","","
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%40v2ray_configs_pool
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip#%40v2ray_configs_pool
-
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3F%40MTMVPN%40MTMVPN%40MTMVPN%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Ftelegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dzani.yaemiko.ggff.net%2F%40MTMVPN%40MTMVPN%40MTMVPN%40MTMVPN%3Fed%3D2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
@@ -238,19 +224,33 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws\u0026encr
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-v2ray_hubb_v2ray_hubb_v2ray_hubb%3Fed%3D512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
+
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Ftelegram--MTMVPN--telegram--MTMVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=chrome","","
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥂
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%40v2ray_configs_pool
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Ftelegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN#%40v2ray_configs_pool
-
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz------%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%3Dzani.yaemiko.ggff.net%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌱
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
