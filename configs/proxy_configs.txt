@@ -6,6 +6,12 @@
 
 vless://001c1efb-0302-4974-8be7-b1a5bbcbaabc@order.dissertationhelpspecialist.com:443?security=reality&encryption=none&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&fp=firefox&spx=%2F&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&sni=tgju.org&sid=3da49e0b43#%40twixV2ray
 
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443/?type=tcp\u0026encryption=none\u0026flow=","","
+
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443/?type=tcp\u0026encryption=none\u0026flow=","","
+
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#@meli_proxyy
 
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809/?type=tcp\u0026encryption=none\u0026flow=","","
@@ -62,6 +68,8 @@ vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp\u0026e
 
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%40Daily_Configs
 
+vless://15449e06-b519-414a-9e0d-fbb4a0fd2780@speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=stackoverflow.com\u0026fp=firefox\u0026security=reality\u0026pbk=7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o\u0026sid=f23547","","
+
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.124:443?encryption=none&security=none&type=xhttp&path=%2Fad&mode=stream-one#@meli_proxyy
 
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.5:443?mode=stream-one&path=%2Fad&security=none&encryption=none&type=xhttp#@meli_proxyy
@@ -95,8 +103,6 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&en
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 vless://198d69fe-0837-4c88-a352-a5b93fecde5c@31.41.35.88:9090/?encryption=none\u0026flow=\u0026host=bama.ir\u0026type=tcp\u0026headerType=http","","
-
-vless://19b32b55-1547-49db-9ef7-8ca21d580ce3@91.99.97.62:51479?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&spx=%2F&type=grpc&authority=&serviceName=%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&mode=gun#%40v2ray_configs_pool
 
 vless://1b18b439-5371-4f38-b8d0-71aad09a3a92@15.204.235.13:43728/?type=tcp\u0026encryption=none","","
 
@@ -144,8 +150,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@vizzpn.freenet.channel.vizzfrag.ir:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40v2ray_configs_pool
-
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20455%20%28%40Outline_Vpn%29%20free🤩 🤩 Outline
 
 vless://23240094-d544-6d31-94d5-2416b8ef9dc2@2.clubban.ir:2087?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=2.vizitur.ir#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌴
@@ -186,8 +190,6 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@79.137.192.208:443/?type=tcp\u0026e
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=d3b13f31","","
 
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&type=tcp&headerType=none#%40v2ray_configs_pool
-
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#S148
 
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.speedtest.net&sid=e2#S149
@@ -205,6 +207,14 @@ vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?security=re
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@meli_proxyy
 
 vless://2df2194a-547a-4e2e-bb52-a91932e30fdc@ca.musicbaaz.ir:43669?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=tc.dony-e-eqtesad.com&headerType=http&fp=chrome&type=tcp&sni=ca.musicbaaz.ir#%40NETMelliAnti%20%3A%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026fp=random","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026fp=random","","
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2Fproxyip\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=h2%2Chttp%2F1.1\u0026fp=chrome","","
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#%40v2ray_configs_pool
 
@@ -224,6 +234,8 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443/?type=ws\u0026enc
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026fp=chrome","","
 
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%2F%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026fp=random","","
+
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Ftelegram--MTMVPN--telegram--MTMVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
@@ -239,18 +251,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&se
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Ftelegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dzani.yaemiko.ggff.net%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096/?type=ws\u0026encryption=none\u0026host=carlotta.shoorekeeper.cloudns.org\u0026path=%3Dzani.yaemiko.ggff.net%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512\u0026security=tls\u0026sni=carlotta.shoorekeeper.cloudns.org\u0026alpn=http%2F1.1\u0026fp=randomized","","
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐬
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Gp%20%3A%20%40Mrdarcgp%20%F0%9F%8F%B4%F0%9F%8F%B3
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
@@ -378,8 +378,6 @@ hysteria2://2af14ba2-1a50-4e86-9eb9-b9c78f3507dc@54.169.234.79:60007?insecure=1#
 
 hysteria2://2e73e0a6-3b44-4327-a3f6-66802dcaa094@45.147.201.231:30073?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#🔒 HYSTERIA-UDP 🇷🇺 RU-45.147.201.231:30073
 
-hysteria2://338bb7db-e7e0-4279-bf97-ff21b4c3fc67@ukhub.xg-hub.icu:25785?sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#%40v2ray_configs_pool
-
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@92.112.53.144:2056?insecure=1&sni=zp1.eyujichang.xyz#🔒 HYSTERIA-UDP 🇺🇦 UA-92.112.53.144:2056
 
 hysteria2://3ee091ca-ab9c-11ef-a791-f23c9164ca5d@107.167.18.102:8443/?insecure=1&sni=3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG
@@ -474,8 +472,6 @@ hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tl
 
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#🔒 HYSTERIA-UDP 🇺🇸 US-198.23.130.211:443
 
-hysteria2://7e2040cc-abbc-4f4c-8f7f-62fdd0f18aa1@flyyg.flylink.cyou:35240?sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D&insecure=1#%40v2ray_configs_pool
-
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?mport=49999-65000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.34.109:443
 
 hysteria2://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@194.156.99.107:443?mport=50000-53000&insecure=1&sni=api.push.apple.com#🔒 HYSTERIA-UDP 🇭🇰 HK-194.156.99.107:443
@@ -490,8 +486,6 @@ hysteria2://87f055ba@141.11.89.172:60000?insecure=1&sni=www.bing.com#%F0%9F%87%B
 
 hysteria2://87f055ba@141.11.89.172:60000?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-141.11.89.172:60000
 
-hysteria2://91444c14-779d-4974-a68f-95cb7105f2fa@flyyg.flylink.cyou:35240?sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D&insecure=1#%40v2ray_configs_pool
-
 hysteria2://9191642e-1376-4e0f-869a-5b5bc872fa9c@38.55.96.130:32620?sni=hkkc2.kaipi.link#🔒 HYSTERIA-UDP 🇺🇸 US-38.55.96.130:32620
 
 hysteria2://924abf1e-375d-4918-8b20-1047ef3dbb57@144.24.64.99:10119?insecure=1&sni=kor.pddwdf.store#🔒 HYSTERIA-UDP 🇰🇷 KR-144.24.64.99:10119
@@ -499,6 +493,12 @@ hysteria2://924abf1e-375d-4918-8b20-1047ef3dbb57@144.24.64.99:10119?insecure=1&s
 hysteria2://928a3318-b103-4f5f-ac80-1efd6f05d3d7@47.238.98.245:50000?insecure=1&sni=ali.xiao666666.site#🔒 HYSTERIA-UDP 🇭🇰 HK-47.238.98.245:50000
 
 hysteria2://93c16258-48e0-4c72-928c-06434e394540@107.175.32.131:40266?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.32.131:40266
+
+hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:35456?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:35456
+
+hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:37568?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:37568
+
+hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:39665?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:39665
 
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG
 
