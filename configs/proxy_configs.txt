@@ -182,8 +182,6 @@ vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&
 
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&host=t.me%2Fv2Line&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.speedtest.net&sid=e2#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20435%20%28%40Outline_Vpn%29%20free🤩 🤩 Outline
 
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20464%20%28%40Outline_Vpn%29%20free
@@ -248,9 +246,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40netv2reyng
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐳
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍉
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dzani.yaemiko.ggff.net%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
@@ -378,8 +378,6 @@ hysteria2://2af14ba2-1a50-4e86-9eb9-b9c78f3507dc@54.169.234.79:60007?insecure=1#
 
 hysteria2://2e73e0a6-3b44-4327-a3f6-66802dcaa094@45.147.201.231:30073?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#🔒 HYSTERIA-UDP 🇷🇺 RU-45.147.201.231:30073
 
-hysteria2://30cd031e-b4a6-4bc7-a99a-9642259fdeff@flydg.flylink.cyou:35230?security=tls&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D&insecure=1&sni=flydg.flylink.cyou#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
 hysteria2://30cd031e-b4a6-4bc7-a99a-9642259fdeff@flyyg.flylink.cyou:35240?sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D&insecure=1#@meli_proxyy
 
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@92.112.53.144:2056?insecure=1&sni=zp1.eyujichang.xyz#🔒 HYSTERIA-UDP 🇺🇦 UA-92.112.53.144:2056
@@ -499,6 +497,8 @@ hysteria2://928a3318-b103-4f5f-ac80-1efd6f05d3d7@47.238.98.245:50000?insecure=1&
 hysteria2://93c16258-48e0-4c72-928c-06434e394540@107.175.32.131:40266?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.32.131:40266
 
 hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:35456?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:35456
+
+hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:37568?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:37568
 
 hysteria://108.181.24.77:11512/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG
 
