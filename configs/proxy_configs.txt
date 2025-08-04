@@ -42,6 +42,8 @@ vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&securi
 
 vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443/?type=ws\u0026encryption=none\u0026host=black.fullmargintraders.com\u0026path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe\u0026security=tls\u0026sni=black.fullmargintraders.com\u0026fp=chrome","","
 
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?encryption=none&security=tls&sni=black.fullmargintraders.com&fp=firefox&type=ws&host=black.fullmargintraders.com&path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe#@v2ray_configs_pool
+
 vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=148BpJi0Zp.GiGa1.OrG&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=WjHqY539h6.V2dArK1.iNfO&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -51,6 +53,8 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=%2F&securit
 vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QsSiJf7PbV.gIgA3.oRg&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.85.177:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=i2pd.website\u0026fp=chrome\u0026security=reality\u0026pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE\u0026sid=55e6af1a35e64a98","","
+
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&headerType=none#@v2ray_configs_pool
 
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=%2Fds&security=none&encryption=none&type=xhttp#@meli_proxyy
 
@@ -113,6 +117,8 @@ vless://1be69a67-c541-4a09-bd8a-d724d2df5329@172.66.40.99:8880/?type=ws\u0026enc
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403/?type=tcp\u0026encryption=none","","
 
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp\u0026encryption=none\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk\u0026sid=4ae260","","
+
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
 
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#S143
 
@@ -214,6 +220,8 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&enc
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XrKp5F97u7.TaKtAk00121.InFo&fp=chrome&type=ws&sni=XrKp5F97u7.TaKtAk00121.InFo#@meli_proxyy
 
+vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?mode=gun&security=reality&encryption=none&pbk=lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=2eb360#%40ZEDMODEON%20%F0%9F%87%AB%F0%9F%87%AE
+
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
 vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443/?type=ws&encryption=none&flow=&path=%2Fwflhdtws&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
@@ -243,14 +251,6 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20476%20%28%40Outline_Vpn%29%20free
 
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&security=tls&encryption=none&type=ws#@meli_proxyy
-
-vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=learn.microsoft.com\u0026fp=chrome\u0026security=reality\u0026pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4\u0026sid=63cace289fb97072","","
-
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@meli_proxyy
-
-vless://2f96ed36-b98a-4aee-f7f6-6443c22d2939@77.81.81.69:16032?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-
-vless://2f96ed36-b98a-4aee-f7f6-6443c22d2939@77.81.81.69:49822?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
