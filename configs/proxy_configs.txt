@@ -172,8 +172,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@vizzpn.freenet.channel.vizzfrag.ir:
 
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20524%20%28%40Outline_Vpn%29%20free🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 vless://21d57e3e-b331-40c1-9b97-fe5a72cb1047@62.60.178.200:20322/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=www.latimes.com\u0026fp=chrome\u0026security=reality\u0026pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4\u0026sid=4d","","
 
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=lowes.com\u0026fp=chrome\u0026security=reality\u0026pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns\u0026sid=8f","","
@@ -251,6 +249,8 @@ vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?encryption=none
 vless://27c96fb9-1de0-4856-ada2-432ab05b0d17@cc.cybsecguru.com:443/?type=ws\u0026encryption=none\u0026flow=\u0026host=jnir-cdn.hpcode.ir\u0026path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560\u0026security=tls\u0026sni=jnir-cdn.hpcode.ir","","
 
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws&encryption=none&flow=&path=%2Ffqogayws&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
+
+vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443/?type=ws&encryption=none&flow=&path=%2Fdahuqpws&security=tls&allowInsecure=1#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
