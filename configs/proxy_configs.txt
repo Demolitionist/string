@@ -118,6 +118,8 @@ vless://19b32b55-1547-49db-9ef7-8ca21d580ce3@91.99.97.62:51479/?type=grpc\u0026e
 
 vless://1b18b439-5371-4f38-b8d0-71aad09a3a92@15.204.235.13:43728/?type=tcp\u0026encryption=none\u0026flow=","","
 
+vless://1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf@[2a03:b0c0:3:f0:0:1:230e:f000]:27270?mode=gun&security=reality&encryption=none&pbk=OMYgAO-fEdI3x7diLQDd2-xTkEMNNCeeYDhuweqex0c&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=ab#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥉
+
 vless://1b71208f-4837-4996-bd37-a61b431555fb@79.133.56.170:443/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM\u0026sid=3650a4286bf867e9","","
 
 vless://1b71208f-4837-4996-bd37-a61b431555fb@79.133.56.170:443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=3650a4286bf867e9#@meli_proxyy
@@ -230,6 +232,8 @@ vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?mode=gun&secu
 
 vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?mode=gun&security=reality&encryption=none&pbk=lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=2eb360#%40ZEDMODEON%20%F0%9F%87%AB%F0%9F%87%AE
 
+vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?mode=gun&security=reality&encryption=none&pbk=lvW1CMFXmIyUEtr16rnqqdliIINhh8loLoTcnQ_23Sc&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=2eb360#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥇
+
 vless://264784a8-ae62-4af4-ac33-13d8d5e0bfe0@world-of.ru:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs\u0026sid=71e48a","","
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
@@ -247,10 +251,6 @@ vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws&encryptio
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443/?type=ws&encryption=none&flow=&path=%2Fdahuqpws&security=tls&allowInsecure=1#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=8453e5fd9af927","","
-
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=hls-svod.itunes.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg\u0026sid=d3b13f31","","
-
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#S148
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
