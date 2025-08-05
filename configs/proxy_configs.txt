@@ -134,6 +134,8 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=zoomgov.vipren.biz.id\u0026path=%2F193.123.81.105%3D443","","
 
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20484%20%28%40Outline_Vpn%29%20free🤩🤩 Outline
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20490%20%28%40Outline_Vpn%29%20free
@@ -233,8 +235,6 @@ vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443/?type=ws&encrypt
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#@meli_proxyy
 
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
-
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20464%20%28%40Outline_Vpn%29%20free
 
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20476%20%28%40Outline_Vpn%29%20free
 
