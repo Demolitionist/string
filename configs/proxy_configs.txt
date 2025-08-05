@@ -34,6 +34,8 @@ vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co
 
 vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=%2Feoppydws&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 
+vless://06f92a11-61f2-4463-b5d9-1a81ad3ccdc4@real.tele-shop-too.studio:443?security=reality&pbk=FQzh06_4ZSBAJNSxLIYgHZe-ZnxHIqQ2MEHh1SZiggU&encryption=none&headerType=none&spx=%2F&type=tcp&sni=matrix-client.matrix.org&sid=fad41efd3e&fp=chrome#@Teleto1_bot
+
 vless://08656645-94f6-4360-9260-deae587a2b1a@94.183.167.51:6009?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@meli_proxyy
 
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp\u0026encryption=none\u0026flow=","","
@@ -77,8 +79,6 @@ vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@antimage.fonixapp.org:30938/?type=t
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=%2Fvless&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#@meli_proxyy
 
 vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=canva.com\u0026fp=chrome\u0026security=reality\u0026pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs\u0026sid=03e60665","","
-
-vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#%40NETMelliAnti
 
 vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@zeusolympus.fonixapp.org:20558/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=canva.com\u0026fp=chrome\u0026security=reality\u0026pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs\u0026sid=03e60665","","
 
