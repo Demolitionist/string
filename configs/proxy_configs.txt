@@ -174,13 +174,13 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80/?type=ws\u0026encr
 
 vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&sni=www.speedtest.net&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💎
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏉
+
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥳
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥂
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -194,13 +194,15 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&securit
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85😍
+
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoin---ShadowProxy66&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚛
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.67.72.191:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍫
-
 vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?security=none&encryption=none&type=ws#@meli_proxyy
+
+vless://31303220-3533-4035-b320-393720313032@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥰
 
 vless://31961d72-b3df-4f0b-84c3-c4575b2b142b@newus-ceg5.555199.xyz:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026security=tls\u0026sni=ssl.wsfog.co.uk\u0026fp=chrome","","
 
@@ -249,8 +251,6 @@ vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.
 vless://49a7f5d2-026e-4c17-8386-b3e073473a13@iran.shatak.top:11344?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏈
 
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI\u0026sid=","","
-
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=speed.cloudflare.com\u0026fp=chrome\u0026security=reality\u0026pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y\u0026sid=","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
