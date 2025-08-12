@@ -142,7 +142,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&security=
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥳
 
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🟢
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚕
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚓
 
@@ -171,8 +171,6 @@ vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&en
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321/?type=tcp\u0026encryption=none\u0026flow=","","
 
 vless://363fc7cb-211e-4ee5-86dc-32cebcd729a2@46.226.162.144:443/?type=grpc\u0026encryption=none\u0026flow=\u0026serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=yCVJx0wmxNCquTou_VefSTUXBJ1gMBJyOcNViF1BVXw\u0026sid=b6b65b76b5969271","","
-
-vless://384be267-665d-40f6-a418-999bd2744fba@del.moon.od.taptaptoon.ir:1674?type=tcp&path=%2F&headerType=http&security=none#%40Mr_proxy_20-5yh18xta
 
 vless://39c9c0f2-80b4-495e-a08c-36f5760aee5c@104.18.26.90:2095/?type=httpupgrade\u0026encryption=none\u0026flow=\u0026host=ab7Du7e7yYYosyHyWE4w6x0.pEYdA4u.ir\u0026path=%2Fupdate","","
 
@@ -251,6 +249,8 @@ vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878/?encryptio
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 
 vless://534c8834-d096-462c-8c16-37571a798ef3@152.53.140.45:45846/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=stackoverflow.com\u0026fp=chrome\u0026security=reality\u0026pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg\u0026sid=ac","","
+
+vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=stackoverflow.com\u0026fp=chrome\u0026security=reality\u0026pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg\u0026sid=ac","","
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
