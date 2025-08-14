@@ -352,8 +352,6 @@ hysteria2://25a7be37-eca8-4d9e-a8ae-63722bf9ec2e@35.74.79.114:7001?insecure=1&sn
 
 hysteria2://25a7be37-eca8-4d9e-a8ae-63722bf9ec2e@43.207.208.50:7001?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒 HYSTERIA-UDP 🇯🇵 JP-43.207.208.50:7001
 
-hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
-
 hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443?insecure=1&sni=www.microsoft.com#%E6%97%A5%E6%9C%AC_081413051
 
 hysteria2://27de93f4-144d-4a34-a823-9e30965964ce@45.147.201.231:33062?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#🔒 HYSTERIA-UDP 🇷🇺 RU-45.147.201.231:33062
@@ -466,8 +464,6 @@ hysteria2://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@194.156.99.107:443?mport=50000-
 
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.59.124:54530?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇨🇦 CA-129.153.59.124:54530
 
-hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@192.18.150.167:54530/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
-
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8A%A0%E6%8B%BF%E5%A4%A7_081413126
 
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇨🇦 CA-40.233.73.221:47262
@@ -484,10 +480,6 @@ hysteria2://928a3318-b103-4f5f-ac80-1efd6f05d3d7@47.238.98.245:50000?insecure=1&
 
 hysteria2://93c16258-48e0-4c72-928c-06434e394540@107.175.32.131:40266?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.32.131:40266
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502/?sni=real.getafreenode.sbs#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494/?sni=real.getafreenode.sbs#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%A6
-
 hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:35456?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:35456
 
 hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@195.133.5.52:37568?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-195.133.5.52:37568
@@ -501,6 +493,14 @@ hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@45.135.134.30:37568?insecure=1&
 hysteria2://9514a813-c237-4bfa-87d8-da48b2d020c8@45.135.134.30:39665?insecure=1&sni=mirror.hyperdedic.ru#🔒 HYSTERIA-UDP 🇷🇺 RU-45.135.134.30:39665
 
 hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@3.112.28.125:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-3.112.28.125:1659
+
+hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.178.220.201:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.178.220.201:1659
+
+hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.95.138.110:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.95.138.110:1659
+
+hysteria2://96e027fb-ec4b-4d49-b861-346dfd5ebee7@209.141.35.56:50000?insecure=1&sni=mg02.hssl8088.icu#🔒 HYSTERIA-UDP 🇺🇸 US-209.141.35.56:50000
+
+hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsadly.huasuan666.top:22159/?insecure=1&sni=hsadly.huasuan666.top#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 
 hysteria://108.181.24.77:11512?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.24.77:11512
 
