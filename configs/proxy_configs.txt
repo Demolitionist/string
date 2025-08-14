@@ -10,8 +10,6 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegr
 
 vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.155:2096/?encryption=none\u0026flow=\u0026host=speedtest.net\u0026type=tcp\u0026headerType=http","","
 
-vless://03c7a062-fa7d-4e08-a261-aa9b18df7495@172.66.40.99:8080?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=t.lightningg.ip-ddns.com&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40NormanV2ray%20%7C%20%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
-
 vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
 vless://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=steampowered.com\u0026fp=chrome\u0026security=reality\u0026pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI\u0026sid=0d","","
@@ -123,6 +121,8 @@ vless://222b77d7-6480-4d9f-a9cb-ac9f1bc47783@172.66.40.99:80?path=%2FJoin-ZEDMOD
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=lowes.com\u0026fp=chrome\u0026security=reality\u0026pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns\u0026sid=8f","","
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
+
+vless://25165495-0454-4300-bb7e-f2ea3d66848a@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#%40ZEDMODEON%20%F0%9F%87%A9%F0%9F%87%AA%20253
 
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
