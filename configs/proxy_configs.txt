@@ -72,8 +72,6 @@ vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403/?type=tcp\u002
 
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F","","
 
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20556%20%28%40Outline_Vpn%29%20free
-
 vless://1d79ae59-02b4-402d-c529-4c0a7facec28@37.27.220.157:3810/?type=tcp\u0026encryption=none\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU\u0026sid=f830f6","","
 
 vless://1d79ae59-02b4-402d-c529-4c0a7facec28@de-re.afteam.ir:3810/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=tgju.org\u0026fp=chrome\u0026security=reality\u0026pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU\u0026sid=f830f6","","
@@ -253,6 +251,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FNZsEQ
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FOv2KvsU2Lbv0dKPh%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.gejase6122.workers.dev&fp=randomized&type=ws&sni=pooriA.GeJaSE6122.wOrKeRS.dEV#🔥80📌POORIA3
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FUvW6owJUFOY6dugi%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria3.divekot939.workers.dev&fp=randomized&type=ws&sni=PoOrIA3.dIVeKOT939.wOrkeRS.DEv#🔥📌POORIA8
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FbAmD7Z3vwOBeAchH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria300.sajaj26960.workers.dev&fp=randomized&type=ws&sni=pooRiA300.SAJAj26960.woRkERs.dev#🔥📌POORIA2
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
