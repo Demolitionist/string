@@ -232,8 +232,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8080?flow=&type=ws&h
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8880?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=tls&sni=POORiA.REDFREe8.IR&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8F%20pooria.redfree8.ir
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?fragment=10-20,10-20,tlshello&flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=tls&sni=POORiA.REDFREe8.IR&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 
 POORIA:
@@ -253,6 +251,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-418.pages.dev&fp=randomized&type=ws&sni=PagES.Dev#%F0%9F%A5%B7POORIAred9
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLgaL64RTrlqRe5Yj%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatest.fapepod509.workers.dev&fp=randomized&type=ws&sni=PoORIaTESt.FaPepOD509.WOrkerS.DeV#🔥📌POORIA9
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FNZsEQGgtCRP4GowJ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatesti-dtg.pages.dev&fp=randomized&type=ws&sni=POORIAtEStI-Dtg.PAgEs.dev#🔥📌POORIA11
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
