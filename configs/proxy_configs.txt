@@ -10,13 +10,15 @@ vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@notifications.p
 
 vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@oai-gateway.cloudflare.com:2095/?type=ws\u0026encryption=none\u0026flow=\u0026host=chanel-fastt.lavazembaranjon.ir.\u0026path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net%3Fed%3D3216","","
 
-vless://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40NormanV2ray%20%7C%20%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
-
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809/?type=tcp\u0026encryption=none","","
 
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
 
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?encryption=none&security=none&type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#hope%20of%20freedom%20-%20%40anotherme_night
+
 vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.155:2096/?encryption=none\u0026flow=\u0026host=speedtest.net\u0026type=tcp\u0026headerType=http","","
+
+vless://019deb98-eef7-4a69-983a-1f9fd77f5280@172.67.197.9:2095?encryption=none&security=none&type=ws&host=worker-gentle-unit-1324.db126b023f83.workers.dev&path=%2F%3Fed%3D2048#hope%20of%20freedom%20-%20%40anotherme_night
 
 vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4\u0026sid=689a9a","","
 
@@ -134,6 +136,8 @@ vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLk
 
 vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=cdn.jsdelivr.net\u0026fp=chrome\u0026security=reality\u0026pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4\u0026sid=13f10f56","","
 
+vless://277f230b-638b-47c9-95d5-032f99186283@cf-assets-blog.cyberscaler.net:443?encryption=none&security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=%2Fcdn-cgi%2Ftrace&type=tcp&headerType=none#hope%20of%20freedom%20-%20%40anotherme_night
+
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=e2#S166
 
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=hidden-river-df80-ppal03.bewome9099.workers.dev\u0026path=%2F%3Fed%3D2560","","
@@ -166,8 +170,6 @@ vless://35b56ca6-5c90-4fc6-b8be-3384a4156a90@bakrie.ac.id.servpn.my.id:443/?type
 
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU\u0026sid=229b2a94","","
 
-vless://3743c683-a48f-4a39-a904-2467f23d88fb@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40NormanV2ray%20%7C%20%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
-
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=little-haze-1600-ppal03.gabonim122.workers.dev\u0026path=%2F%3Fed%3D2560","","
 
 vless://3d6687ef-de9f-4f66-9fd3-c8bf38826b3e@188.245.108.31:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=de1.mmad.news\u0026path=%2F11921%2Fwsgoogle","","
@@ -177,6 +179,8 @@ vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KU
 vless://3f0e54f7-0e38-582c-b3bb-a4a20837bf98@45.89.63.107:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=www.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=2URqL2jksJcJKrT7Yzhb0ipAhhuzLMZnUOKyqhIqHhw\u0026sid=c8cf20379bb2","","
 
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
+
+vless://3ff672c6-6e12-481a-82be-0b6bf10a4be6@edge-gw-lb.cyberscaler.net:10022?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=nJhrThyrsiOOgKVKSkxsBwzsWEHqprdF8gejMucJSwQ&sid=1b&spx=%2F&type=tcp&headerType=none#hope%20of%20freedom%20-%20%40anotherme_night
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
@@ -249,10 +253,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F34s21r6vYhBCNtql%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria304.diyone7732.workers.dev&fp=randomized&type=ws&sni=poorIa304.DiyoNe7732.WORkeRS.Dev#🔥📌POORIA16
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FAie2oYHsv2KoweKf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.divekot939.workers.dev&fp=randomized&type=ws&sni=pOorIa.DIVEkoT939.WOrKers.Dev#🔥📌POORIA15
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm6fLplPy4zLE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-dth.pages.dev&fp=randomized&type=ws&sni=pAGEs.dEv#%F0%9F%A5%B7POORIAred5
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-418.pages.dev&fp=randomized&type=ws&sni=PagES.Dev#%F0%9F%A5%B7POORIAred9
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
