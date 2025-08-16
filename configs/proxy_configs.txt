@@ -80,8 +80,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20621%20%28%40Outline_Vpn%29%20free
 
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN%20607%20%28%40Outline_Vpn%29%20free
 
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80/?type=ws\u0026encryption=none\u0026flow=\u0026path=%2F","","
@@ -253,6 +251,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FjQuQSu
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fla3sY1WOl4a0DcCs%3Fed%3D2560&security=&encryption=none&host=pooria3.divekot939.workers.dev&type=ws#🔥80📌POORIA4
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FpYlvrOh1WyvqzKtg%3Fed%3D2560&security=&encryption=none&host=pooria300.sajaj26960.workers.dev&type=ws#🔥80📌POORIA1
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=POorIa.REdpOoRIAAB3.Workers.dev&path=/wv3aOVsPS8tLJetw?ed%3D2560&security=tls&sni=pOoRIA.rEDpOorIAAb3.wORKErS.DeV&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA7
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
