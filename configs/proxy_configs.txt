@@ -26,6 +26,8 @@ vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=%2Feoppydws&
 
 vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=fonts.gstatic.com\u0026fp=safari\u0026security=reality\u0026pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE\u0026sid=567e","","
 
+vless://079b8ad9-1ef1-45b3-9a0a-3f9c24a74302@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+
 vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443/?encryption=none\u0026flow=\u0026host=www.speedtest.net\u0026type=tcp\u0026headerType=http","","
 
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671/?type=tcp\u0026encryption=none\u0026flow=","","
@@ -158,6 +160,8 @@ vless://31303220-3533-4035-b320-393720313032@92.112.126.22:8442?security=reality
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
 
+vless://34392035-3520-4535-a039-392039392035@51.91.97.39:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
+
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20613%20%28%40Outline_Vpn%29%20free
 
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#IRAN%20626%20%28%40Outline_Vpn%29%20free
@@ -175,6 +179,8 @@ vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KU
 vless://3f0e54f7-0e38-582c-b3bb-a4a20837bf98@45.89.63.107:8443/?type=tcp\u0026encryption=none\u0026flow=xtls-rprx-vision\u0026sni=www.apple.com\u0026fp=chrome\u0026security=reality\u0026pbk=2URqL2jksJcJKrT7Yzhb0ipAhhuzLMZnUOKyqhIqHhw\u0026sid=c8cf20379bb2","","
 
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
 
@@ -226,6 +232,10 @@ vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878/?encryption=none\
 
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878/?encryption=none\u0026host=khamenei.ir\u0026type=tcp\u0026headerType=http","","
 
+vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality&encryption=none&pbk=6Bmi0jb4B0iSRGLwWYN1M-XRr5ewPw_T1oRXBMX1yRI&headerType=none&fp=chrome&spx=%2F%40SkyShieldVPN&type=tcp&sni=refersion.com&sid=02a26a760838267e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+
+vless://52b3eea3-61a1-45f2-a060-da40c822d4a6@77.83.175.25:41080?security=reality&encryption=none&pbk=6Bmi0jb4B0iSRGLwWYN1M-XRr5ewPw_T1oRXBMX1yRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=02a26a760838267e#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8080?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8880?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
@@ -243,16 +253,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F34s21r6vYhBCNtql%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria304.diyone7732.workers.dev&fp=randomized&type=ws&sni=poorIa304.DiyoNe7732.WORkeRS.Dev#🔥📌POORIA16
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FAie2oYHsv2KoweKf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.divekot939.workers.dev&fp=randomized&type=ws&sni=pOorIa.DIVEkoT939.WOrKers.Dev#🔥📌POORIA15
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm6fLplPy4zLE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-dth.pages.dev&fp=randomized&type=ws&sni=pAGEs.dEv#%F0%9F%A5%B7POORIAred5
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-418.pages.dev&fp=randomized&type=ws&sni=PagES.Dev#%F0%9F%A5%B7POORIAred9
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLgaL64RTrlqRe5Yj%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatest.fapepod509.workers.dev&fp=randomized&type=ws&sni=PoORIaTESt.FaPepOD509.WOrkerS.DeV#🔥📌POORIA9
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FNZsEQGgtCRP4GowJ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatesti-dtg.pages.dev&fp=randomized&type=ws&sni=POORIAtEStI-Dtg.PAgEs.dev#🔥📌POORIA11
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FOv2KvsU2Lbv0dKPh%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.gejase6122.workers.dev&fp=randomized&type=ws&sni=pooriA.GeJaSE6122.wOrKeRS.dEV#🔥80📌POORIA3
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
