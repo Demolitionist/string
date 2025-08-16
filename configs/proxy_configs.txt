@@ -10,6 +10,8 @@ vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@notifications.p
 
 vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@oai-gateway.cloudflare.com:2095/?type=ws\u0026encryption=none\u0026flow=\u0026host=chanel-fastt.lavazembaranjon.ir.\u0026path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net%3Fed%3D3216","","
 
+vless://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#%40ZEDMODEON%20%F0%9F%87%A9%F0%9F%87%AA%20130
+
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809/?type=tcp\u0026encryption=none","","
 
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
@@ -170,6 +172,8 @@ vless://35b56ca6-5c90-4fc6-b8be-3384a4156a90@bakrie.ac.id.servpn.my.id:443/?type
 
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798/?type=tcp\u0026encryption=none\u0026flow=\u0026sni=yahoo.com\u0026fp=chrome\u0026security=reality\u0026pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU\u0026sid=229b2a94","","
 
+vless://3743c683-a48f-4a39-a904-2467f23d88fb@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#%40ZEDMODEON%20%F0%9F%87%A9%F0%9F%87%AA%20253
+
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=little-haze-1600-ppal03.gabonim122.workers.dev\u0026path=%2F%3Fed%3D2560","","
 
 vless://3d6687ef-de9f-4f66-9fd3-c8bf38826b3e@188.245.108.31:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=de1.mmad.news\u0026path=%2F11921%2Fwsgoogle","","
@@ -249,10 +253,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?fragment=100-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F23Tqza5sUEoZerW5%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatesti-c8s.pages.dev&fp=randomized&type=ws&sni=poorIATeSti-C8S.PAgES.DEv#🔥📌POORIA4
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=PAgES.dev#%F0%9F%A5%B7POORIAred11
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F34s21r6vYhBCNtql%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria304.diyone7732.workers.dev&fp=randomized&type=ws&sni=poorIa304.DiyoNe7732.WORkeRS.Dev#🔥📌POORIA16
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FAie2oYHsv2KoweKf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.divekot939.workers.dev&fp=randomized&type=ws&sni=pOorIa.DIVEkoT939.WOrKers.Dev#🔥📌POORIA15
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
