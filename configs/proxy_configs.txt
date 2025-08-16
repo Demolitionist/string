@@ -136,8 +136,6 @@ vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443/
 
 vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40NormanV2ray%20%7C%20%D9%86%DB%8C%D9%85%20%D8%B3%D8%A7%D8%B9%D8%AA%20%D8%AF%DB%8C%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%DA%A9%D9%86%D9%85%20%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4%D9%88%20%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 
-vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#%40ZEDMODEON%20%F0%9F%87%A9%F0%9F%87%AA%2095
-
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=e2#S166
 
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80/?type=ws\u0026encryption=none\u0026flow=\u0026host=hidden-river-df80-ppal03.bewome9099.workers.dev\u0026path=%2F%3Fed%3D2560","","
@@ -222,10 +220,6 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?sec
 
 vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-us83.maxnetservices.online&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@185.146.173.39:8880?encryption=none&security=none&type=ws&host=de2.mmad.news&path=%2F8880%2FwsGoogle#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-WS1-noTLS
-
-vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@91.98.35.181:8880?encryption=none&security=none&type=ws&host=de2.mmad.news&path=%2F8880%2FwsGoogle#%F0%9F%87%A9%F0%9F%87%AA281MMad%F0%9F%96%A4-WS2-noTLS
-
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#@meli_proxyy
 
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@92.114.17.6:29878/?encryption=none\u0026flow=\u0026host=khamenei.ir\u0026type=tcp\u0026headerType=http","","
@@ -253,6 +247,12 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FAie2o
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm6fLplPy4zLE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-dth.pages.dev&fp=randomized&type=ws&sni=pAGEs.dEv#%F0%9F%A5%B7POORIAred5
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-418.pages.dev&fp=randomized&type=ws&sni=PagES.Dev#%F0%9F%A5%B7POORIAred9
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLgaL64RTrlqRe5Yj%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatest.fapepod509.workers.dev&fp=randomized&type=ws&sni=PoORIaTESt.FaPepOD509.WOrkerS.DeV#🔥📌POORIA9
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FNZsEQGgtCRP4GowJ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatesti-dtg.pages.dev&fp=randomized&type=ws&sni=POORIAtEStI-Dtg.PAgEs.dev#🔥📌POORIA11
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FOv2KvsU2Lbv0dKPh%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria.gejase6122.workers.dev&fp=randomized&type=ws&sni=pooriA.GeJaSE6122.wOrKeRS.dEV#🔥80📌POORIA3
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔒 HYSTERIA-UDP 🇳🇱 NL-206.71.158.40:35000
 
